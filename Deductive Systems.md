@@ -1,0 +1,21 @@
+## Deductive Systems in Mathematics
+
+- Significance of Rigor in any field
+- History of Mathematical Rigor
+	- Axiomatic Method
+		- Flaws in Euclid's Elements
+			- Reliance on human intuition
+			- Appeal to self evidence of postulates 
+		- Requirements of an Axiomatic Method
+			- Basic Axioms
+				- Just statements chosen as the most fundamental
+				- Aren't necessarily universal truths or self evident or simple
+			- Rules of Inference
+				- Neither intuition nor intelligence should be required
+				- Possible for computer to verify decution
+			- Formal Language
+				- Elementary Predicates/Atomic Formulas
+				- Variables
+				- Logical Connectives
+				- Quantifiers
+				- Both Basic Axioms and Rules of Inference are stated in this language using above elements
