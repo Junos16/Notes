@@ -13,8 +13,6 @@
 	- If B is named then we see that $P(C\space is\space pardoned) \neq P(A\space is\space pardoned)$
 	- Thus Solution A is flawed
 
-
-
 **Solution 2:**
 	If A is pardoned then the warden names B or C (as the pardoned) by flipping a coin. So $P(B\space named|A\space is\space pardoned) = P(C\space named|A\space is\space pardoned) = 0.5$. 
 	If 
