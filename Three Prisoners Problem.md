@@ -6,6 +6,12 @@
 	Named = B $\implies$ Pardoned = C or A. So $P(C\space is\space pardoned) = P(A\space is\space pardoned) = 0.5$
 	Named = C $\implies$ Pardoned = B or A. So $P(B\space is\space pardoned) = P(A\space is\space pardoned) = 0.5$
 
+**List of Cases:**
+	1. $P(A\space pardoned,\space B named)$
+	2. A pardoned, C named
+	3. B pardoned, C named
+	4. C pardoned, B named
+
 **Problem with Solution A:**
 	- The prisoner named when A is pardoned is not determined in the same way as when B or C are pardoned
 	-  If B is named then $P(C\space is\space pardoned) = 1$ w
