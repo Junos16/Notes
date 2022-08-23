@@ -2,5 +2,6 @@
 	Three prisoners, A, B, and C, are in separate cells and sentenced to death. The governor has selected one of them at random to be pardoned. The warden knows which one is pardoned, but is not allowed to tell. Prisoner A begs the warden to let him know the identity of one of the two who are going to be executed. "If B is to be pardoned, give me C's name. If C is to be pardoned, give me B's name. And if I'm to be pardoned, secretly flip a coin to decide whether to name B or C." 
 	The warden tells A that B is to be executed. Prisoner A is pleased because he believes that his probability of surviving has gone up from 1/3 to 1/2, as it is now between him and C. Prisoner A secretly tells C the news, who reasons that A's chance of being pardoned is unchanged at 1/3, but he is pleased because his own chance has gone up to 2/3. Which prisoner is correct?
 
-Solution:
-	There are two events ocurring when A asks the warden to let him know who is going to get executed
+**Solution:**
+	If A is pardoned then the warden names B or C (as the pardoned) by flipping a coin. So $P(B\space named|A\space is\space pardoned) = P(C\space named|A\space is\space pardoned) = 0.5$. 
+	If 
