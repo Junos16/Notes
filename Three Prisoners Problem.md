@@ -6,10 +6,10 @@
 	Named = C $\implies$ Pardoned = B or A. So $P(B\space is\space pardoned) = P(A\space is\space pardoned) = 0.5$
 
 **List of Cases:**
-	1. $P(A\space pardoned,\space B\space named) = (\frac{1}{3})\left(\frac{1}{2}\right) = \frac{1}{6}$
-	2. $P(A\space pardoned,\space C\space named) = (\frac{1}{3})\left(\frac{1}{2}\right) = \frac{1}{6}$
-	3. $P(B\space pardoned,\space C\space named) = \frac{1}{3}$
-	4. $P(C\space pardoned,\space B\space named) = \frac{1}{3}$
+	1. $P(A\space pardoned\cap B\space named) = (\frac{1}{3})\left(\frac{1}{2}\right) = \frac{1}{6}$
+	2. $P(A\space pardoned\cap C\space named) = (\frac{1}{3})\left(\frac{1}{2}\right) = \frac{1}{6}$
+	4. $P(B\space pardoned\cap C\space named) = \frac{1}{3}$
+	5. $P(C\space pardoned\cap B\space named) = \frac{1}{3}$
 	- Either B or C being named when A is pardoned is independent of the likelihood of A being pardoned. 
 	- If B is named then we see that $P(C\space is\space pardoned) \neq P(A\space is\space pardoned)$
 	- Thus Solution A is flawed
