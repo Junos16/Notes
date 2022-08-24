@@ -3,7 +3,7 @@
 
 **Events:**
 	- $A, B, C$ are events that the corresponding prisoner willl be pardoned
-	- $a, b, c$ are events that the corresponiding 
+	- $b$ & $c$ are events that the warden tells A that the corresponding prisoner will be executed
 
 **Solution A:**
 	Named = B $\implies$ Pardoned = C or A. So $P(C\space is\space pardoned) = P(A\space is\space pardoned) = 0.5$
