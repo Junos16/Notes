@@ -8,4 +8,9 @@ For a strictly increasing function f(x) we maximize it by maximizing x. Can we d
 
 Reciept folder
 Bathroom Clean
+Probability
+Function
+Notebook
 IEEE Paper
+Shopping
+
