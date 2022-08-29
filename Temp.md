@@ -15,8 +15,8 @@ IEEE Paper
 
 ## Monotonic Functions
 
-If a monotonically increasing function has a finite limit at $+ \inf$ then it is bounded from above
+If a monotonically increasing function has a finite limit at $+ \infty$ then it is bounded from above
 
 Proof:
 
-Let $f(x)$ be a monotonically increasing function (i.e. $\forall y>x \space f(y)\f(x)$  )
+Let $f(x)$ be a monotonically increasing function (i.e. $\forall y>x \space f(y)\ge f(x)$) and $lim_{x \to \infty}f(x) = M$. We need to show that $\forall x M\geq f(x)$   
