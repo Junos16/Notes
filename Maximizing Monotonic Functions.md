@@ -1,19 +1,6 @@
-Question
-Imperfect solution
-Enumeration
-Correct Solution
-Cause of imperfection
+## Maximizing Monotonic Functions
 
-For a strictly increasing function f(x) we maximize it by maximizing x. Can we do the same for monotonically increasing functions
-
-Reciept folder
-Bathroom Clean
-Probability
-Function
-Notebook
-IEEE Paper
-
-## Monotonic Functions
+Monotonic functions always have limits at $\plusminus$ 
 
 If a monotonically increasing function has a finite limit at $+ \infty$ then it is bounded from above
 
