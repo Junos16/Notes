@@ -21,4 +21,6 @@ Proof:
 
 Let $f(x)$ be a monotonically increasing function (i.e. $\forall y>x \space f(y)\ge f(x)$) and $lim_{x \to \infty}f(x) = M$. We need to show that $\forall x M\geq f(x)$.
 
-Let us assume that $f(x)$ is not bounded from above by $M$. $\implies \exists k \ni f(k) \ge M$ 
+Let us assume that $f(x)$ is not bounded from above by $M$. $\implies \exists k \ni f(k) \ge M$. Since $f(x)$ is monotonically increasing $\implies \forall x > k \space f(x)\ge f(k)$. 
+
+Let $\epsilon = |f(k)-M|$. $\because \forall x > k \space f(x)\ge f(k)$ there exists no such $c \ni \forall x > c |f(x)-M|$   
