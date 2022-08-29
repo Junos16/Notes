@@ -19,4 +19,6 @@ If a monotonically increasing function has a finite limit at $+ \infty$ then it 
 
 Proof:
 
-Let $f(x)$ be a monotonically increasing function (i.e. $\forall y>x \space f(y)\ge f(x)$) and $lim_{x \to \infty}f(x) = M$. We need to show that $\forall x M\geq f(x)$   
+Let $f(x)$ be a monotonically increasing function (i.e. $\forall y>x \space f(y)\ge f(x)$) and $lim_{x \to \infty}f(x) = M$. We need to show that $\forall x M\geq f(x)$.
+
+Let us assume that $f(x)$ is not bounded from above by $M$. $\implies \exists k \ni f(k) \ge M$ 
