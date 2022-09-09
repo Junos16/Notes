@@ -7,14 +7,16 @@
 	- $b$ & $c$ are events that the warden tells A that the corresponding prisoner will be executed
 
 **Solution 1:**
-	Named = B $\implies$ Pardoned = C or A. So $P(C\space is\space pardoned) = P(A\space is\space pardoned) = 0.5$
-	Named = C $\implies$ Pardoned = B or A. So $P(B\space is\space pardoned) = P(A\space is\space pardoned) = 0.5$
+	In this case:
+	Named = B $\implies$ Pardoned = C or A. So $P(C) = P(A) = 0.5$
+	Otherwise:
+	Named = C $\implies$ Pardoned = B or A. So $P(B) = P(A) = 0.5$
 
 **List of Cases:**
-	1. $P(A\space pardoned\cap B\space named) = (\frac{1}{3})\left(\frac{1}{2}\right) = \frac{1}{6}$
-	2. $P(A\space pardoned\cap C\space named) = (\frac{1}{3})\left(\frac{1}{2}\right) = \frac{1}{6}$
-	4. $P(B\space pardoned\cap C\space named) = \frac{1}{3}$
-	5. $P(C\space pardoned\cap B\space named) = \frac{1}{3}$
+	1. $P(A\cap b) = (\frac{1}{3})\left(\frac{1}{2}\right) = \frac{1}{6}$
+	2. $P(A\cap c) = (\frac{1}{3})\left(\frac{1}{2}\right) = \frac{1}{6}$
+	4. $P(B\cap c) = \frac{1}{3}$
+	5. $P(C\cap b) = \frac{1}{3}$
 	- Either B or C being named when A is pardoned is independent of the likelihood of A being pardoned. 
 	- If B is named then we see that $P(C\space is\space pardoned) \neq P(A\space is\space pardoned)$
 	- Thus Solution A is flawed
