@@ -19,7 +19,7 @@
 	5. $P(C\cap b) = \frac{1}{3}$
 	- Either B or C being named when A is pardoned is independent of the likelihood of A being pardoned. 
 	- If B is named then we see that $P(C\space is\space pardoned) \neq P(A\space is\space pardoned)$
-	- Thus Solution A is flawed
+	- Thus, Solution A is flawed
 
 **Solution 2:**
 	If A is pardoned then the warden names B or C (as the pardoned) by flipping a coin. So $P(B\space named|A\space is\space pardoned) = P(C\space named|A\space is\space pardoned) = 0.5$. 
