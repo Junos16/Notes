@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Combinational Vs Sequential Logic.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Combinational Vs Sequential Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Combinational Vs Sequential Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Combinational Vs Sequential Logic.md"
               }
             }
           }
@@ -130,13 +130,15 @@
   },
   "active": "625f2d9a2cbdcef6",
   "lastOpenFiles": [
+    "Logic Gates.md",
+    "Number Codes.md",
+    "Logic Levels.md",
     "Digital vs Analog Circuits.md",
     "Boolean Minimization.md",
     "Digital Electronics Questions.md",
     "Three Prisoners Problem.md",
     "Deductive Systems.md",
     "Foundational Crisis in Mathematics.md",
-    "Maximizing a compound function.md",
-    "Maximizing Monotonic Functions.md"
+    "Maximizing a compound function.md"
   ]
 }
