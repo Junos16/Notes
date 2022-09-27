@@ -1,4 +1,4 @@
-### Algorithms
+## Algorithms
 
 ##### Heuristic vs Algorithmic Problems
 
