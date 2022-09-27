@@ -33,13 +33,17 @@
 	- Every should be definite and not rely on any infinitesimal procedure 
 	- https://cs.stackexchange.com/questions/31932/what-exactly-is-an-algorithm
 
-##### Counterexamples of Algorithms
-
-- 
+- Counterexamples:
+	- 
 
 ##### Multiple solutions
 
 - A problem can have many different algorithmic solutions. Depending on the circumstances certain solutions might be preferred over others.
 
-- Stable Sorting algorti
-- 
+- Efficiency vs Other benefits
+
+- Best vs Approximate solution
+
+- Stable Sorting algorithms
+
+- NP Complete algorithms
