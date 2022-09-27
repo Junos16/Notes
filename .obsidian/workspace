@@ -130,15 +130,15 @@
   },
   "active": "625f2d9a2cbdcef6",
   "lastOpenFiles": [
-    "Algortithms/Algorithm Correctness.md",
     "Algortithms/Algorithm Counterexamples.md",
     "Algortithms/Usability of Specific Algorithms.md",
+    "Algortithms/What and Why.md",
+    "Algortithms/Algorithm Correctness.md",
     "Digital Electronics Questions.md",
     "Combinational Vs Sequential Logic.md",
     "Logic Gates.md",
     "Number Codes.md",
     "Logic Levels.md",
-    "Digital vs Analog Circuits.md",
-    "Boolean Minimization.md"
+    "Digital vs Analog Circuits.md"
   ]
 }
