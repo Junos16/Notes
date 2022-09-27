@@ -47,3 +47,6 @@
 - Stable Sorting algorithms
 
 - NP Complete algorithms
+
+// Reasses the factors quality of an algorithm is judged on
+// Determine RAM etc requirement
