@@ -22,6 +22,13 @@
 
 ##### Properties of Algorithms
 
+- For obvious reasons an algorithm should provide the correct output, not just for a select number of inputs but for all values.
+- i
+
 ##### Counterexamples of Algorithms
 
+- 
+
 ##### Multiple solutions
+
+- 
