@@ -22,9 +22,15 @@
 
 ##### Properties of Algorithms
 
-- Well defined input(s) and output(s)
+- Well defined problem statement
+	- 
 
-- 
+- Well defined input(s) and output(s)
+	- It should halt with the correct output for all possible inputs
+	- It shouldn't not halt or halt with incorrect outputs for any input (within the domain)
+
+- Well defined and finite procedure
+	- Every should be definite and not rely on i
 
 ##### Counterexamples of Algorithms
 
