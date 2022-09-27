@@ -23,14 +23,15 @@
 ##### Properties of Algorithms
 
 - Well defined problem statement
-	- 
+	- The problem should not be vague
 
 - Well defined input(s) and output(s)
 	- It should halt with the correct output for all possible inputs
 	- It shouldn't not halt or halt with incorrect outputs for any input (within the domain)
 
 - Well defined and finite procedure
-	- Every should be definite and not rely on i
+	- Every should be definite and not rely on any infinitesimal procedure 
+	- https://cs.stackexchange.com/questions/31932/what-exactly-is-an-algorithm
 
 ##### Counterexamples of Algorithms
 
@@ -38,4 +39,7 @@
 
 ##### Multiple solutions
 
+- A problem can have many different algorithmic solutions. Depending on the circumstances certain solutions might be preferred over others.
+
+- Stable Sorting algorti
 - 
