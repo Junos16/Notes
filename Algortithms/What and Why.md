@@ -10,6 +10,6 @@
 
 ##### Real world application of Algorihtms
 
-- 
+- The best case scenario is that we have the exact algorithm needed to solve a problem already at hand. It is then only a matter of execution. A slightly more inconvinient scenario is when the problem differs from a previously known algorithm at a surface level, but can be abstracted to be the ex
 
 
