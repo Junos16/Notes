@@ -39,6 +39,14 @@
 - **Correctness:** The most important factor to judge a potential algorithmic solution to a problem is whether or not it is correct in the first place.
 	- Most often there is no point in discussing algorithmic solutions that are incorrect (such solutions are thus, naturally disqualified)
 
+- **Time Complexity:**
+
+- **Memory Complexity:**
+
+- The above three factors are used to judge all algorithms. The best algorithms for any particular problem tends have perform well in all these categories. 
+
+- Factors dependent or indepedent of a
+
 - Efficiency vs Other benefits
 
 - Best vs Approximate solution
