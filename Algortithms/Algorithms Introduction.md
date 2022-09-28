@@ -1,6 +1,6 @@
-## Algorithms
+## Algorithms Introduction
 
-##### Heuristic vs Algorithmic Problems
+##### What are Algorithms?
 
 - Problems that arrise in the real world often require *trial and error*, *guesswork*, *intuition*, *human interpretation* and other subjective/non-concrete tools to arrive at a solution. This increases the chances of errors, inaccuracies and inefficiency.
 
