@@ -33,16 +33,11 @@
 	- Every should be definite and not rely on any infinitesimal procedure 
 	- https://cs.stackexchange.com/questions/31932/what-exactly-is-an-algorithm
 
-- Counterexamples:
-	- 
-
 ##### Factors used to judge Algorithms
+- A problem can have many different algorithmic solutions. Depending on the circumstances certain solutions might be preferred over others.
 
 - **Correctness[https://en.wikipedia.org/wiki/Correctness_(computer_science)]:** The most important factor to judge a potential algorithmic solution to a problem is whether or not it is correct in the first place.
-	- It should halt with the correct output for all possible inputs
-	- 
-
-- A problem can have many different algorithmic solutions. Depending on the circumstances certain solutions might be preferred over others.
+	- Most often there is no point in discussing la
 
 - Efficiency vs Other benefits
 
