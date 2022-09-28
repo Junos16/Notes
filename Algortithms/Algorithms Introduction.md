@@ -38,7 +38,9 @@
 
 ##### Factors used to judge Algorithms
 
-- The most important factor to judge a 
+- **Correctness[https://en.wikipedia.org/wiki/Correctness_(computer_science)]:** The most important factor to judge a potential algorithmic solution to a problem is whether or not it is correct in the first place.
+	- It should halt with the correct output for all possible inputs
+	- 
 
 - A problem can have many different algorithmic solutions. Depending on the circumstances certain solutions might be preferred over others.
 
