@@ -6,5 +6,9 @@
 	- ***Functional Correctness:*** An algorithm is functionally correct if it produces the correct output for each input.
 - //Not sure about definitions upto this point
 
-- **Total Correctness: ** 
-- **Partial Correctness: **
+- **Partial Correctness:** An algorithm that returns the correct value *if* it eventually terminates
+	- 
+- **Total Correctness:** An Algorithm that returns the correct value eventually
+	- The algorithm needs to terminate on top of just being partially correct
+
+- //Why would we be interested in partial?
