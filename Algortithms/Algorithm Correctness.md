@@ -6,4 +6,5 @@
 	- ***Functional Correctness:*** An algorithm is functionally correct if it produces the correct output for each input.
 - //Not sure about definitions upto this point
 
-- 
+- **Total Correctness: ** 
+- **Partial Correctness: **

@@ -48,7 +48,7 @@
 
 - Depending on certain scenarios it might be beneficial to value certain other factors along with (if not more than) the above three:
 	- Examples
-	- **Faster Sorting for worst case scenario:** In certain large datasets, sorting algorithms that aren't the fastest are used 
+	- **Faster Sorting for worst case scenario (?):** In certain large datasets, sorting algorithms that aren't the fastest are used 
 		- This is because the algorithm that is slower on average is faster for the worst case scenario
 		- In such datasets sorting the worst case scenario might be prioritized.
 	- **Algorithms for NP Complete problems:**
