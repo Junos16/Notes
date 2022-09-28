@@ -40,9 +40,6 @@
 
 - 
 
-
-##### Multiple solutions
-
 - A problem can have many different algorithmic solutions. Depending on the circumstances certain solutions might be preferred over others.
 
 - Efficiency vs Other benefits
