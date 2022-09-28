@@ -36,6 +36,11 @@
 - Counterexamples:
 	- 
 
+##### Factors used to judge Algorithms
+
+- 
+
+
 ##### Multiple solutions
 
 - A problem can have many different algorithmic solutions. Depending on the circumstances certain solutions might be preferred over others.
