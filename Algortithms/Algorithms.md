@@ -38,7 +38,7 @@
 
 ##### Factors used to judge Algorithms
 
-- 
+- The most important factor to judge a 
 
 - A problem can have many different algorithmic solutions. Depending on the circumstances certain solutions might be preferred over others.
 
