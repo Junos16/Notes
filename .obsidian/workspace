@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "625f2d9a2cbdcef6",
+        "id": "445f7c48ef8b2fe4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,12 +16,24 @@
         }
       },
       {
-        "id": "445f7c48ef8b2fe4",
+        "id": "aff2350ee7af33e1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algortithms/Algorithm Design Techniques.md",
+            "file": "Algortithms/Algorithms.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "da52fbf3ec18f0ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algortithms/Time Complexity.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algortithms/Algorithm Design Techniques.md",
+                "file": "Algortithms/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algortithms/Algorithm Design Techniques.md",
+                "file": "Algortithms/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algortithms/Algorithm Design Techniques.md"
+                "file": "Algortithms/Algorithms.md"
               }
             }
           }
@@ -140,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b073dfb6b9671d32",
+  "active": "aff2350ee7af33e1",
   "lastOpenFiles": [
-    "Algortithms/Data Structures.md",
-    "Algortithms/Algorithms Introduction.md",
-    "Algortithms/Algorithm Correctness.md",
-    "Algortithms/Algorithm Analysis Model.md",
-    "Algortithms/Memory Complexity.md",
     "Algortithms/Time Complexity.md",
+    "Algortithms/Algorithms.md",
+    "Algortithms/Memory Complexity.md",
+    "Algortithms/Algorithm Correctness.md",
+    "Algortithms/Algorithm Design Techniques.md",
+    "Algortithms/Data Structures.md",
+    "Algortithms/Algorithm Analysis Model.md",
     "Algortithms/Usability of Specific Algorithms.md",
     "Algortithms/Algorithm Counterexamples.md",
-    "Digital Electronics Questions.md",
-    "Combinational Vs Sequential Logic.md"
+    "Digital Electronics Questions.md"
   ]
 }

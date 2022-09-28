@@ -1,4 +1,4 @@
-## Algorithms Introduction
+## Algorithms
 
 ##### What are Algorithms?
 
@@ -47,6 +47,7 @@
 	- The best algorithms for any particular problem tends have perform well in all these categories. 
 
 - Depending on certain scenarios it might be beneficial to value certain other factors along with (if not more than) the above three:
+	- Examples
 
 - Factors dependent or indepedent of hardware?
 
