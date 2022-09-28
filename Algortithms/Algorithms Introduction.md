@@ -12,7 +12,7 @@
 
 - Example: Loosing weight vs Allocating time to daily tasks based on fixed priorities. 
 
-##### Real world application of Algorihtms
+##### Algorihtmic Solutions in the Real World
 
 - The best case scenario is that we have the exact algorithm needed to solve a problem already at hand. It is then only a matter of execution. A slightly more inconvinient scenario is when the problem differs from a previously known algorithm at a surface level, but can be abstracted to be effectively the same problem.
 
