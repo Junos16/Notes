@@ -43,9 +43,12 @@
 
 - **Memory Complexity:**
 
-- The above three factors are used to judge all algorithms. The best algorithms for any particular problem tends have perform well in all these categories. 
+- The above three factors are used to judge all algorithms as they are independent of the nature of the problem or other related factors
+	- The best algorithms for any particular problem tends have perform well in all these categories. 
 
-- Factors dependent or indepedent of a
+- Depending on certain scenarios it might be beneficial to value certain other factors along with (if not more than) the above three:
+
+- Factors dependent or indepedent of hardware?
 
 - Efficiency vs Other benefits
 

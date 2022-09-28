@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algortithms/Algorithms Introduction.md",
+            "file": "Algortithms/Algorithm Design Techniques.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algortithms/Algorithms Introduction.md",
+                "file": "Algortithms/Algorithm Design Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algortithms/Algorithms Introduction.md",
+                "file": "Algortithms/Algorithm Design Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algortithms/Algorithms Introduction.md"
+                "file": "Algortithms/Algorithm Design Techniques.md"
               }
             }
           }
@@ -140,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "445f7c48ef8b2fe4",
+  "active": "b073dfb6b9671d32",
   "lastOpenFiles": [
-    "Algortithms/Algorithm Correctness.md",
+    "Algortithms/Data Structures.md",
     "Algortithms/Algorithms Introduction.md",
+    "Algortithms/Algorithm Correctness.md",
     "Algortithms/Algorithm Analysis Model.md",
     "Algortithms/Memory Complexity.md",
     "Algortithms/Time Complexity.md",
     "Algortithms/Usability of Specific Algorithms.md",
     "Algortithms/Algorithm Counterexamples.md",
     "Digital Electronics Questions.md",
-    "Combinational Vs Sequential Logic.md",
-    "Logic Gates.md"
+    "Combinational Vs Sequential Logic.md"
   ]
 }
