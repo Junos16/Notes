@@ -152,7 +152,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aff2350ee7af33e1",
+  "active": "b073dfb6b9671d32",
   "lastOpenFiles": [
     "Algortithms/Time Complexity.md",
     "Algortithms/Algorithm Correctness.md",
@@ -163,6 +163,6 @@
     "Algortithms/Algorithm Analysis Model.md",
     "Algortithms/Usability of Specific Algorithms.md",
     "Algortithms/Algorithm Counterexamples.md",
-    "Digital Electronics Questions.md"
+    "Digital Electronics/Digital Electronics Questions.md"
   ]
 }
