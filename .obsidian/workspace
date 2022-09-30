@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algortithms/Algorithm Correctness.md",
+                "file": "Algortithms/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algortithms/Algorithm Correctness.md",
+                "file": "Algortithms/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algortithms/Algorithm Correctness.md"
+                "file": "Algortithms/Algorithms.md"
               }
             }
           }
@@ -152,10 +152,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b073dfb6b9671d32",
+  "active": "aff2350ee7af33e1",
   "lastOpenFiles": [
-    "Algortithms/Time Complexity.md",
     "Algortithms/Algorithm Correctness.md",
+    "Algortithms/Time Complexity.md",
     "Algortithms/Algorithms.md",
     "Algortithms/Memory Complexity.md",
     "Algortithms/Algorithm Design Techniques.md",
