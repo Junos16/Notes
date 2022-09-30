@@ -12,3 +12,13 @@
 	- The algorithm needs to terminate on top of just being partially correct
 
 - //Why would we be interested in partial?
+
+- Techniques to prove correctness of an algorithm:
+	- Induction
+	- Loop Invariant
+	- Counterexamples?
+
+
+- **Proof by Induction:** 
+
+- **Proof by Loop Invariant:**
