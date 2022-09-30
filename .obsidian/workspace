@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algortithms/Algorithms.md",
+                "file": "Algortithms/Algorithm Correctness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algortithms/Algorithms.md",
+                "file": "Algortithms/Algorithm Correctness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algortithms/Algorithms.md"
+                "file": "Algortithms/Algorithm Correctness.md"
               }
             }
           }
