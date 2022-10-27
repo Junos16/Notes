@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "3ab676434d794b06",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbedbbc41dfba73d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da52fbf3ec18f0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Electronics/Acitve-High vs Active-Low.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdd44a6f32be8288",
+    "type": "split",
+    "children": [
+      {
+        "id": "e77e43d1d81fcba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b073dfb6b9671d32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "267607a2e5532d23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30db8d4817951613",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "078e7fce02ccc7fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a452b888fe43cf38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5763b3c6c0c9066",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Digital Electronics/Acitve-High vs Active-Low.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cb98fe3b4f6237a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Digital Electronics/Acitve-High vs Active-Low.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f5eae7b0ce3c1a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b232461a7d9fb16c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Digital Electronics/Acitve-High vs Active-Low.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "da52fbf3ec18f0ff",
+  "lastOpenFiles": [
+    "Digital Electronics/Logic Gates.md",
+    "Digital Electronics/Acitve-High vs Active-Low.md",
+    "Digital Electronics/Digital vs Analog Circuits.md",
+    "Digital Electronics/Boolean Minimization.md",
+    "Algortithms/Algorithm Correctness.md",
+    "Algortithms/Time Complexity.md",
+    "Logic/Quantifiers.md",
+    "Logic/Conditional Statements.md",
+    "Logic/Free Vs Bounded Variables.md",
+    "Algortithms/Algorithms.md"
+  ]
+}
