@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Electronics/Acitve-High vs Active-Low.md",
+                "file": "Logic/Conditional Statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Electronics/Acitve-High vs Active-Low.md",
+                "file": "Logic/Conditional Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Electronics/Acitve-High vs Active-Low.md",
+                "file": "Logic/Conditional Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Electronics/Acitve-High vs Active-Low.md"
+                "file": "Logic/Conditional Statements.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "da52fbf3ec18f0ff",
   "lastOpenFiles": [
-    "Digital Electronics/Logic Gates.md",
-    "Digital Electronics/Acitve-High vs Active-Low.md",
-    "Digital Electronics/Digital vs Analog Circuits.md",
-    "Digital Electronics/Boolean Minimization.md",
-    "Algortithms/Algorithm Correctness.md",
-    "Algortithms/Time Complexity.md",
-    "Logic/Quantifiers.md",
-    "Logic/Conditional Statements.md",
     "Logic/Free Vs Bounded Variables.md",
-    "Algortithms/Algorithms.md"
+    "Logic/Quantifiers.md",
+    "Logic/Russel's Paradox.md",
+    "Logic/Conditional Statements.md",
+    "Logic/Deductive Systems.md",
+    "Logic/Foundational Crisis in Mathematics.md",
+    "Digital Electronics/Acitve-High vs Active-Low.md",
+    "Digital Electronics/Logic Gates.md",
+    "Digital Electronics/Digital vs Analog Circuits.md",
+    "Digital Electronics/Boolean Minimization.md"
   ]
 }
