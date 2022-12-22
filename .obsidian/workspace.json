@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iterators.md",
+                "file": "DYP/SE C++/6. STL/Containers.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iterators.md",
+                "file": "DYP/SE C++/6. STL/Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iterators.md",
+                "file": "DYP/SE C++/6. STL/Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iterators.md"
+                "file": "DYP/SE C++/6. STL/Containers.md"
               }
             }
           }
@@ -187,6 +187,7 @@
   },
   "active": "4fb07c5f5d6a6e25",
   "lastOpenFiles": [
+    "Iterators.md",
     "DYP/SE C++/6. STL/Algorithms.md",
     "DYP/SE CompGraphics/6. Animation/Gaming.md",
     "DYP/SE C++/6. STL/Containers.md",
@@ -195,7 +196,6 @@
     "Logic/Conditional Statements.md",
     "Untitled.md",
     "Logic/Free Vs Bounded Variables.md",
-    "Logic/Quantifiers.md",
-    "Logic/Russel's Paradox.md"
+    "Logic/Quantifiers.md"
   ]
 }
