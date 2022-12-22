@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8be09bded32c1613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DYP/SE C++/6. STL/Containers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DYP/SE CompGraphics/6. Animation/Gaming.md",
+                "file": "DYP/SE C++/6. STL/Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DYP/SE CompGraphics/6. Animation/Gaming.md",
+                "file": "DYP/SE C++/6. STL/Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DYP/SE CompGraphics/6. Animation/Gaming.md"
+                "file": "DYP/SE C++/6. STL/Containers.md"
               }
             }
           }
@@ -161,12 +173,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0423541c413aa9a0",
+  "active": "8be09bded32c1613",
   "lastOpenFiles": [
+    "DYP/SE CompGraphics/6. Animation/Gaming.md",
     "DYP/SE CompGraphics/6. Animation/Segment.md",
     "DYP/SE CompGraphics/6. Animation/Animation.md",
     "Logic/Conditional Statements.md",
-    "DYP/SE CompGraphics/6. Animation/Gaming.md",
     "Untitled.md",
     "Logic/Free Vs Bounded Variables.md",
     "Logic/Quantifiers.md",
