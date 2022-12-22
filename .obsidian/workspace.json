@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "8be09bded32c1613",
+            "id": "15381a2f3230f5b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,19 +56,19 @@
             }
           },
           {
-            "id": "15381a2f3230f5b7",
+            "id": "4fb07c5f5d6a6e25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DYP/SE C++/6. STL/Algorithms.md",
+                "file": "Iterators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DYP/SE C++/6. STL/Algorithms.md",
+                "file": "Iterators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DYP/SE C++/6. STL/Algorithms.md",
+                "file": "Iterators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DYP/SE C++/6. STL/Algorithms.md"
+                "file": "Iterators.md"
               }
             }
           }
@@ -185,11 +185,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8be09bded32c1613",
+  "active": "4fb07c5f5d6a6e25",
   "lastOpenFiles": [
-    "DYP/SE C++/6. STL/Containers.md",
     "DYP/SE C++/6. STL/Algorithms.md",
     "DYP/SE CompGraphics/6. Animation/Gaming.md",
+    "DYP/SE C++/6. STL/Containers.md",
     "DYP/SE CompGraphics/6. Animation/Segment.md",
     "DYP/SE CompGraphics/6. Animation/Animation.md",
     "Logic/Conditional Statements.md",
