@@ -1,0 +1,5 @@
+- Sorting Algorithms
+- Mutating Sequence Algorithms
+- NonMutating Sequence Algorithms
+- Numerical Algorithms
+- 

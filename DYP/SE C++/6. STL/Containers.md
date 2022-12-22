@@ -1,6 +1,11 @@
 - Sequential Container
+	- Vector
+	- Deque
+	- List
 - Associative Container
-- 
-- Vector
-- Deque
-- List
+	- 
+- Container Adapter
+	- Stack 
+	- Queue
+	- Priority Queue
+
