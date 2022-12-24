@@ -24,10 +24,11 @@
 	- JK FF
 		- Race Around
 			- 11 (For $t_{p}\geq \Delta t$)
-			- Toggle b
+			- Toggle between 0 and 1 uncertain number of times and resultant output os uncertain
 		- MSJK
 	- T FF
 	- Preset and Clear
+		- 
 - Conversion from 1 FF to Another
 	- Excitation Tables
 		- Conditions required to achieve each transition
