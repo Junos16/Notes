@@ -25,5 +25,6 @@
 	- Preset and Clear
 - Conversion from 1 FF to Another
 	- Excitation Tables
+		- Conditions required to achieve each transition
 	- A FF to B FF
-		- Input from B should correspond to exctab of A
+		- Input from B should correspond to each condition of A responsible for achieving each transition
