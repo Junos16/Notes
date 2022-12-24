@@ -16,10 +16,15 @@
 	- 1-bit Memory Cell
 - Flip Flop Examples
 	- SR FF
+		- Race Around
+			- 00 -> 11
+			- Metastable state
+		- MSSR
 	- D FF
 	- JK FF
 		- Race Around
-		- MSSR
+			- 11 (For $t_{p}\geq \Delta t$)
+			- Toggle b
 		- MSJK
 	- T FF
 	- Preset and Clear
