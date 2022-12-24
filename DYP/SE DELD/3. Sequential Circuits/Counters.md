@@ -4,7 +4,15 @@
 - Aynchronous/Ripple Counter
 	- Async Up Counter
 	- Async Down Counter
-	- Gl
+	- Glitch Problem
+	- Design
 - Synchronous Counter
 	- Sync Up Counter
 	- Sync Down Counter
+	- Design
+- Lock Out
+	- With Bushing
+	- Without Bushing
+- Decade Binary Counter
+- Ring Counter
+- Johnson/Twisting Ring Switch Tail
