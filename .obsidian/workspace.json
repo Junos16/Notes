@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ded128b73efd5ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DYP/SE FDS/3. Searching and Sorting/Searching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a27dc5508d6f461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DYP/SE FDS/3. Searching and Sorting/Searching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Conditional Statements.md",
+                "file": "DYP/SE FDS/3. Searching and Sorting/Searching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Conditional Statements.md",
+                "file": "DYP/SE FDS/3. Searching and Sorting/Searching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Conditional Statements.md"
+                "file": "DYP/SE FDS/3. Searching and Sorting/Searching.md"
               }
             }
           }
@@ -147,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da52fbf3ec18f0ff",
+  "active": "9a27dc5508d6f461",
   "lastOpenFiles": [
+    "DYP/SE FDS/3. Searching and Sorting/Sorting.md",
+    "DYP/SE FDS/3. Searching and Sorting/Searching.md",
+    "Logic/Conditional Statements.md",
     "DYP/SE DELD/3. Sequential Circuits/Registers.md",
     "DYP/SE DELD/5. Logic Families/Basic.md",
     "DYP/SE DELD/6. Microprocessor Architecture/Microprocessor Intro.md",
     "DYP/SE DELD/6. Microprocessor Architecture/Functional Units.md",
     "DYP/SE DELD/5. Logic Families/Interfacing.md",
     "DYP/SE DELD/5. Logic Families/CMOS.md",
-    "DYP/SE DELD/5. Logic Families/TTL.md",
-    "DYP/SE DELD/4. Algorithmic State Machine/ASM.md",
-    "DYP/SE DELD/3. Sequential Circuits/Counters.md",
-    "DYP/SE DELD/4. Algorithmic State Machine/PLD.md"
+    "DYP/SE DELD/5. Logic Families/TTL.md"
   ]
 }
