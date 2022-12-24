@@ -40,3 +40,8 @@
 		- Conditions required to achieve each transition
 	- A FF to B FF
 		- Input from B should correspond to each condition of A responsible for achieving each transition
+- Bounce Elimination Switch
+	- Eliminate debounce upon switch contact
+	- SR Latch connected (S  = A -> Q; R = B -> Q!)
+	- Switch to A
+		- Initial contact (S = A = 1, R = B = 0) -> Q is 0
