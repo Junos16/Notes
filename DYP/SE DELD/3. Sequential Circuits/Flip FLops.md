@@ -1,0 +1,9 @@
+- Sequential Circuits vs Combinational Circuits
+	- Inputs
+	- Memory Unit
+	- Clock
+	- Speed
+- Latch vs Flip Flops
+	- 1-bit Memory Cell
+	- Level(no clock) vs Edge (clock) Triggered
+	- 
