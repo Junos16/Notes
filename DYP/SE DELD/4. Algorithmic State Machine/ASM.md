@@ -1,2 +1,5 @@
 - ASM
 - PLD
+	- PROM
+	- PLA
+	- PAL
