@@ -1,0 +1,10 @@
+- Basics
+	- Synchronous vs Asynchronous Counters
+	- Modulus of Counter
+- Aynchronous/Ripple Counter
+	- Async Up Counter
+	- Async Down Counter
+	- Gl
+- Synchronous Counter
+	- Sync Up Counter
+	- Sync Down Counter

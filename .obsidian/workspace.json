@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6368679efd6fc3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "DYP/SE DELD/3. Sequential Circuits/Counters.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md",
+                "file": "DYP/SE DELD/3. Sequential Circuits/Counters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md",
+                "file": "DYP/SE DELD/3. Sequential Circuits/Counters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md"
+                "file": "DYP/SE DELD/3. Sequential Circuits/Counters.md"
               }
             }
           }
@@ -174,10 +162,10 @@
   },
   "active": "876b197f4b84cb88",
   "lastOpenFiles": [
-    "Untitled.md",
-    "DYP/SE DELD/3. Sequential Circuits/Counters.md",
     "DYP/SE DELD/3. Sequential Circuits/Registers.md",
     "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md",
+    "Untitled.md",
+    "DYP/SE DELD/3. Sequential Circuits/Counters.md",
     "Logic/Conditional Statements.md",
     "DYP/SE C++/6. STL/Containers.md",
     "DYP/SE C++/6. STL/Algorithms.md",

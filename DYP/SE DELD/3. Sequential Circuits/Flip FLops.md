@@ -42,6 +42,10 @@
 		- Input from B should correspond to each condition of A responsible for achieving each transition
 - Bounce Elimination Switch
 	- Eliminate debounce upon switch contact
-	- SR Latch connected (S  = A -> Q; R = B -> Q!)
+	- SR Latch connected (S  = A -> Q; R = B -> !Q)
 	- Switch to A
-		- Initial contact (S = A = 1, R = B = 0) -> Q is 0
+		- Initial contact (S = A = 1, R = B = 0) -> Q is 1
+		- Further debounce (S = A = 0, R = B = 0, Q still is 1)
+	- Switch to B
+		- Initial contact (S = A = 0, R = B = 1) -> !Q is 1
+		- Further debounce (S = A = 0, R = B = 0, !Q still is 1)
