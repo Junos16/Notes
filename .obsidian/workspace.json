@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Queue.md",
+                "file": "DYP/SE FDS/Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a78a1e7bb41e011e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Stack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Queue.md",
+                "file": "5. Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Queue.md",
+                "file": "5. Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Queue.md"
+                "file": "5. Stack.md"
               }
             }
           }
@@ -184,8 +196,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3db61e1c5297172e",
+  "active": "a78a1e7bb41e011e",
   "lastOpenFiles": [
+    "DYP/SE FDS/Queue.md",
     "DYP/SE FDS/3. Searching and Sorting/Searching.md",
     "DYP/SE FDS/3. Searching and Sorting/Sorting.md",
     "Logic/Conditional Statements.md",
@@ -194,7 +207,6 @@
     "DYP/SE DELD/6. Microprocessor Architecture/Microprocessor Intro.md",
     "DYP/SE DELD/6. Microprocessor Architecture/Functional Units.md",
     "DYP/SE DELD/5. Logic Families/Interfacing.md",
-    "DYP/SE DELD/5. Logic Families/CMOS.md",
-    "DYP/SE DELD/5. Logic Families/TTL.md"
+    "DYP/SE DELD/5. Logic Families/CMOS.md"
   ]
 }
