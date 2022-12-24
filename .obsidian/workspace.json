@@ -20,55 +20,31 @@
             }
           },
           {
-            "id": "5abb2690fe330543",
+            "id": "876b197f4b84cb88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DYP/SE CompGraphics/6. Animation/Animation.md",
+                "file": "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0423541c413aa9a0",
+            "id": "a6368679efd6fc3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DYP/SE CompGraphics/6. Animation/Gaming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15381a2f3230f5b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DYP/SE C++/6. STL/Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fb07c5f5d6a6e25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DYP/SE C++/6. STL/Containers.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DYP/SE C++/6. STL/Containers.md",
+                "file": "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DYP/SE C++/6. STL/Containers.md",
+                "file": "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DYP/SE C++/6. STL/Containers.md"
+                "file": "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md"
               }
             }
           }
@@ -196,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fb07c5f5d6a6e25",
+  "active": "876b197f4b84cb88",
   "lastOpenFiles": [
-    "DYP/SE C++/6. STL/Algorithms.md",
+    "Untitled.md",
+    "DYP/SE DELD/3. Sequential Circuits/Counters.md",
+    "DYP/SE DELD/3. Sequential Circuits/Registers.md",
+    "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md",
+    "Logic/Conditional Statements.md",
     "DYP/SE C++/6. STL/Containers.md",
+    "DYP/SE C++/6. STL/Algorithms.md",
     "Iterators.md",
     "DYP/SE CompGraphics/6. Animation/Gaming.md",
-    "DYP/SE CompGraphics/6. Animation/Segment.md",
-    "DYP/SE CompGraphics/6. Animation/Animation.md",
-    "Logic/Conditional Statements.md",
-    "Untitled.md",
-    "Logic/Free Vs Bounded Variables.md",
-    "Logic/Quantifiers.md"
+    "DYP/SE CompGraphics/6. Animation/Segment.md"
   ]
 }
