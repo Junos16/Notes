@@ -4,6 +4,26 @@
 	- Clock
 	- Speed
 - Latch vs Flip Flops
+	- Level Triggering
+		- No Clock
+		- Latch
+	- Edge Triggering
+		- CLock
+		- Flip Flop
+- Latch Examples
+	- SR Latch
+	- D Latch
 	- 1-bit Memory Cell
-	- Level(no clock) vs Edge (clock) Triggered
-	- 
+- Flip Flop Examples
+	- SR FF
+	- D FF
+	- JK FF
+		- Race Around
+		- MSSR
+		- MSJK
+	- T FF
+	- Preset and Clear
+- Conversion from 1 FF to Another
+	- Excitation Tables
+	- A FF to B FF
+		- Input from B should correspond to exctab of A
