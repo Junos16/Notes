@@ -28,7 +28,13 @@
 		- MSJK
 	- T FF
 	- Preset and Clear
-		- 
+		- Asynchronous input to set/reset FF
+		- P = C = 1, synchronous operation
+		- P = 0, C = 1, set condition
+		- P = 1, C = 0, reset condition
+- IMP: Practice all FF, Latch, Preset/Clear diagrams
+	- NAND vs NOR gate
+	- Active Low vs High
 - Conversion from 1 FF to Another
 	- Excitation Tables
 		- Conditions required to achieve each transition
