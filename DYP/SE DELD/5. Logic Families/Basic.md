@@ -1,0 +1,3 @@
+- Types of Logic Families
+- Characteristics of Digital ICs
+- Comparison between TTL and CMOS
