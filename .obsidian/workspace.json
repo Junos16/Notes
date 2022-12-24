@@ -102,9 +102,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c181faf12acc4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DYP/SE DELD/6. Microprocessor Architecture/Microprocessor Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e6bc40413fd6e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DYP/SE DELD/6. Microprocessor Architecture/Microprocessor Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DYP/SE DELD/5. Logic Families/Interfacing.md",
+                "file": "DYP/SE DELD/5. Logic Families/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DYP/SE DELD/5. Logic Families/Interfacing.md",
+                "file": "DYP/SE DELD/5. Logic Families/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DYP/SE DELD/5. Logic Families/Interfacing.md"
+                "file": "DYP/SE DELD/5. Logic Families/Basic.md"
               }
             }
           }
@@ -232,17 +256,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8702ea74dee18f70",
+  "active": "7f16225d6e92c745",
   "lastOpenFiles": [
+    "DYP/SE DELD/6. Microprocessor Architecture/Microprocessor Intro.md",
+    "DYP/SE DELD/6. Microprocessor Architecture/Functional Units.md",
+    "DYP/SE DELD/5. Logic Families/Interfacing.md",
     "DYP/SE DELD/5. Logic Families/CMOS.md",
     "DYP/SE DELD/5. Logic Families/TTL.md",
     "DYP/SE DELD/5. Logic Families/Basic.md",
     "DYP/SE DELD/4. Algorithmic State Machine/ASM.md",
     "DYP/SE DELD/3. Sequential Circuits/Counters.md",
     "DYP/SE DELD/4. Algorithmic State Machine/PLD.md",
-    "DYP/SE DELD/3. Sequential Circuits/Registers.md",
-    "DYP/SE DELD/3. Sequential Circuits/Flip FLops.md",
-    "Logic/Conditional Statements.md",
-    "DYP/SE C++/6. STL/Containers.md"
+    "DYP/SE DELD/3. Sequential Circuits/Registers.md"
   ]
 }

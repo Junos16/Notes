@@ -1,3 +1,14 @@
 - Types of Logic Families
+	- Bipolar
+		- Saturated
+			- Register TL
+			- Diode TL
+			- Direct Coupled
+			- Integrated I
+		- Unsaturated
+	- Unipolar
+		- p-channel MOS (PMOS)
+		- n-channel MOS (NMOS)
+		- complementary MOS (CMOS)
 - Characteristics of Digital ICs
 - Comparison between TTL and CMOS
