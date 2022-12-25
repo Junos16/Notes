@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DYP/SE FDS/6. Queue.md",
+                "file": "DYP/SE FDS/5. Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DYP/SE FDS/6. Queue.md",
+                "file": "DYP/SE FDS/5. Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DYP/SE FDS/6. Queue.md",
+                "file": "DYP/SE FDS/5. Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DYP/SE FDS/6. Queue.md"
+                "file": "DYP/SE FDS/5. Stack.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b073dfb6b9671d32",
+  "active": "a78a1e7bb41e011e",
   "lastOpenFiles": [
-    "DYP/SE FDS/5. Stack.md",
     "DYP/SE FDS/6. Queue.md",
+    "DYP/SE FDS/5. Stack.md",
     "DYP/SE FDS/3. Searching and Sorting/Searching.md",
     "DYP/SE FDS/3. Searching and Sorting/Sorting.md",
     "Logic/Conditional Statements.md",
