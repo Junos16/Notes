@@ -12,6 +12,13 @@
 		- Completely
 			- Both points are outside but both endpoints lie on the same side of the window
 	- Algorithms
-		- 
+		- Cohen-Sutherland
+			- 
 - Polygon Clipping
-	- 
+	- Line Clipping + Close open polygon boundaries
+	- Algorithm
+		- Sutherland - Hodgeman
+		- Weiler - Atherton
+- Generalized Clipping
+- Interior Exterior Clipping
+- 
