@@ -3,7 +3,8 @@
 	- Deque
 	- List
 - Associative Container
-	- 
+	- Map
+		- 
 - Container Adapter
 	- Stack 
 	- Queue
