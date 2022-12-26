@@ -31,9 +31,13 @@
 - Polygon Filling Algorithms
 	- Seed Fill
 		- Seed Point -> Neighbour Pixel -> Boundary Pixel
-		- Flood-Fill
 		- Boundary/Edge Fill
-			- 8-connected
-			- Check if 
+			- Start from seed
+			- Check if current pixel is boundary or filled
+			- Neither -> Recursively apply algo to 8/4 connected pixels
+		- Flood-Fill
+			- Same recursive algo as boundary
+			- Check for old color instead of boundary/filled
+			- Replace old with new
 	- Scan Line
 		- Inside -> Fill, Outside-> Skip
