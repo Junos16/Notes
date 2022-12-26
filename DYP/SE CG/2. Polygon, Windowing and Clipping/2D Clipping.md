@@ -1,7 +1,14 @@
 - Determine inside outside clip window
 - Point Clipping
-	- ${x_{w}}_{min} \leq $
-	- 
+	- ${x_{w}}_{min} \leq x \leq {x_{w}}_{max}$
+	- ${y_{w}}_{min} \leq y \leq {y_{w}}_{max}$
 - Line Clipping
-	- 
+	- Inside
+		- Both endpoints are inside boundary
+	- Outside
+		- Partially
+			- Both endpoints are outside but on either sides of window
+			- One endpoint is inside the window
+		- Completely
+			- Both points are outside but both endpoints lie on the same si
 - Polygon Clipping
