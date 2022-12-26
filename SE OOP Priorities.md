@@ -1,8 +1,9 @@
 | Subtopic | Priority| Confidence |
 | -------- | -------- | ---------- |
-| OOP Theory | A | 
-| Basic C++ | C | 
-| C style | A |
+| OOP Theory | 0 | 
+| Basic C++ | 0 | 
+| C style | 0 |
 | Basic OOP | A |
-Func Pass
+| Static, Inline, Friend | k
+
 
