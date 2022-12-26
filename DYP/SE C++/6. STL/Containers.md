@@ -3,6 +3,12 @@
 	- Deque
 	- List
 - Associative Container
+	- methods
+		- iterators
+		- capacity
+		- element access
+		- modifier
+		- 
 	- Set
 		- set< type> set_name;
 		- noo duplicates;
