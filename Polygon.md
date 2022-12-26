@@ -7,6 +7,9 @@
 	- Polygon Primitive
 	- Trapezoid Primitive
 	- Line and Point
+		- OpCode
+		- X coord
+		- Y coord
 - Inside Test
 	- Even - Odd Test
 		- Point =/= Vertex
@@ -16,8 +19,15 @@
 			- Vertex counts as even
 				- When two edges of the polygon meeting lie on same side of line
 			- Vertex counts as odd
-				- When two edges of the polygon lie on opposite sides 
+				- When two edges of the polygon lie on opposite sides of line
 	- Winding Number Test
+		- Look at edges of Polygon 
+			- Down = 1
+			- Up = -1
+			- Sum = Winding Number
+				- WN = 0 Outside
+				- WN =/= 0 Inside
+		- Since it looks at edges passing thr
 - Polygon Filling Algorithms
 	- Seed Fill
 		- Flood-Fill
