@@ -10,5 +10,8 @@
 			- Both endpoints are outside but on either sides of window
 			- One endpoint is inside the window
 		- Completely
-			- Both points are outside but both endpoints lie on the same si
+			- Both points are outside but both endpoints lie on the same side of the window
+	- Algorithms
+		- 
 - Polygon Clipping
+	- 
