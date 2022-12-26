@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b03a0ad84d9dd540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polygon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0adc27b37be61bc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polygon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE OOP Priorities.md",
+                "file": "Polygon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE OOP Priorities.md",
+                "file": "Polygon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE OOP Priorities.md"
+                "file": "Polygon.md"
               }
             }
           }
@@ -160,17 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35ca6cdc5682df49",
+  "active": "0adc27b37be61bc8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Polygon.md",
+    "SE OOP Priorities.md",
     "DYP/SE FDS/6. Queue.md",
     "DYP/SE FDS/5. Stack.md",
     "DYP/SE FDS/3. Searching and Sorting/Searching.md",
     "DYP/SE FDS/3. Searching and Sorting/Sorting.md",
     "Logic/Conditional Statements.md",
     "DYP/SE DELD/3. Sequential Circuits/Registers.md",
-    "DYP/SE DELD/5. Logic Families/Basic.md",
-    "DYP/SE DELD/6. Microprocessor Architecture/Microprocessor Intro.md",
-    "DYP/SE DELD/6. Microprocessor Architecture/Functional Units.md",
-    "DYP/SE DELD/5. Logic Families/Interfacing.md"
+    "DYP/SE DELD/5. Logic Families/Basic.md"
   ]
 }
