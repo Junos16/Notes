@@ -1,13 +1,17 @@
-- Polygon
-	- Types
-		- Concave
-		- Convex
-		- Complex
-	- Representation
-		- Polygon Primitive
-		- Trapezoid Primitive
-		- Line and Point
-	- Inside Test
-		- Even - Odd Test
-		- Winding Number Test
-		- 
+
+- Types
+	- Concave
+	- Convex
+	- Complex
+- Representation
+	- Polygon Primitive
+	- Trapezoid Primitive
+	- Line and Point
+- Inside Test
+	- Even - Odd Test
+	- Winding Number Test
+- Polygon Filling Algorithms
+	- Seed Fill
+		- Flood-Fill
+		- Boundary/Edge Fill
+	- Scan Line
