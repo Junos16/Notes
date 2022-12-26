@@ -1,7 +1,9 @@
 - Sequential Container
 	- Vector
 	- Deque
+		- 
 	- List
+		- Doubly Linked List
 - Associative Container
 	- methods
 		- iterators
