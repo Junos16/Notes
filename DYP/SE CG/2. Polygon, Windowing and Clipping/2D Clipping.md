@@ -24,4 +24,6 @@
 	- Similar clipping routines for all each boudary
 	- Recursion to call each routine using only parameters of specific boundaries
 - Interior Exterior Clipping
-- 
+	- Interior -> Regular Clipping
+	- Exterior -> Remove everything inside clipping widow
+	- Used when high priority windows overlap with low priority ones
