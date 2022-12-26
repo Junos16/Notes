@@ -20,5 +20,8 @@
 		- Sutherland - Hodgeman
 		- Weiler - Atherton
 - Generalized Clipping
+	- Generalize to arbitrary convex clipping window
+	- Similar clipping routines for all each boudary
+	- Recursion to call each routine using only parameters of specific boundaries
 - Interior Exterior Clipping
 - 
