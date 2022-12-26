@@ -7,11 +7,8 @@
 		- set< type> set_name;
 		- noo duplicates;
 	- Multiset
-		- multiset< 
-
-
-
-
+		- multiset< type> multiset_name;
+		- duplicates
 	- Map
 		- map<key_type, item_type> map_name;
 		- 1-1
