@@ -9,6 +9,14 @@
 	- Line and Point
 - Inside Test
 	- Even - Odd Test
+		- Point =/= Vertex
+			- Odd = Inside
+			- Even = Outside
+		- Point = Vertex
+			- Vertex counts as even
+				- When two edges of the polygon meeting lie on same side of line
+			- Vertex counts as odd
+				- When two edges of the polygon lie on opposite sides 
 	- Winding Number Test
 - Polygon Filling Algorithms
 	- Seed Fill
