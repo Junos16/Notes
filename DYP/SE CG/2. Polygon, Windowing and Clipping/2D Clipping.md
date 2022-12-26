@@ -1,0 +1,7 @@
+- Determine inside outside clip window
+- Point Clipping
+	- ${x_{w}}_{min} \leq $
+	- 
+- Line Clipping
+	- 
+- Polygon Clipping
