@@ -27,9 +27,13 @@
 			- Sum = Winding Number
 				- WN = 0 Outside
 				- WN =/= 0 Inside
-		- Since it looks at edges passing thr
+		- Since it looks at edges passing through lines, vertex case is averted
 - Polygon Filling Algorithms
 	- Seed Fill
+		- Seed Point -> Neighbour Pixel -> Boundary Pixel
 		- Flood-Fill
 		- Boundary/Edge Fill
+			- 8-connected
+			- Check if 
 	- Scan Line
+		- Inside -> Fill, Outside-> Skip
