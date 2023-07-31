@@ -11,8 +11,12 @@
             "id": "dcdac1a8833e2b98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cartesian Product.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cartesian Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cartesian Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cartesian Product.md"
+              }
             }
           },
           {
@@ -170,6 +178,10 @@
   },
   "active": "dcdac1a8833e2b98",
   "lastOpenFiles": [
+    "Class Construction.md",
+    "What are Sets.md",
+    "Syntax of First-Order Logic.md",
+    "Relations.md",
     "Notes/Cartesian Product.md",
     "Notes/Set Construction.md",
     "Naive Set Theory.md",
@@ -179,7 +191,6 @@
     "Functions.md",
     "Equality of Mathematical Objects.md",
     "Classes vs Sets.md",
-    "Class Construction.md",
     "Cartesian Product.md",
     "Map of Contents/Set Theory - Map of Contents.md",
     "Map of Contents/Real Analysis - Map of Contents.md",
@@ -194,10 +205,7 @@
     "Hold/Class Existence Axioms.md",
     "Hold/Axiom of Extension.md",
     "Hold/Axiom of Well-Foundedness.md",
-    "Hold/Axiom Schema of Class Comprehension.md",
-    "Hold/Axiomatic Set Theory.md",
     "Hold",
-    "Draft/Set Theory - Questions.md",
     "Draft",
     "netify.toml",
     "Notes/netify.toml",
