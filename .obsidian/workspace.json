@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "d974ddf83d2d7b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e98b66d107c57c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcdac1a8833e2b98",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6505af0456b0deb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff4f3a1cbf28b2d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfef3e9911e65438",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76db3aa79b7c6c88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c759139e881e9b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b8cae721b76d02af",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a208164ba494ba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "976ef8df19956777",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34df0e60f8d85620",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65850841f2aeb530",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a73ea1f095eca2a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9491aede15f39bf9",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8997c44741d687e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "db7e6ef8d146640a",
+            "type": "leaf",
+            "state": {
+              "type": "workbench-items",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "ledger-obsidian:Add to Ledger": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "daily-notes:Open today's daily note": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-flexible-pomo:Start Pomodoro": false
+    }
+  },
+  "active": "dcdac1a8833e2b98",
+  "lastOpenFiles": [
+    "Notes/Cartesian Product.md",
+    "Notes/Set Construction.md",
+    "Naive Set Theory.md",
+    "Mathematical Realism.md",
+    "Indexed Family.md",
+    "Generalized Union and Intersection.md",
+    "Functions.md",
+    "Equality of Mathematical Objects.md",
+    "Classes vs Sets.md",
+    "Class Construction.md",
+    "Cartesian Product.md",
+    "Map of Contents/Set Theory - Map of Contents.md",
+    "Map of Contents/Real Analysis - Map of Contents.md",
+    "Map of Contents/Data Structures and Algorithms - Map of Contents.md",
+    "Map of Contents/Logic - Map of Contents.md",
+    "Map of Contents/Computer Architecture - Map of Contents.md",
+    "Map of Contents",
+    "Hold/Propostions.md",
+    "Hold/Quantifiers.md",
+    "Hold/Logical vs Semantic Paradoxes.md",
+    "Hold/NBG Set Theory.md",
+    "Hold/Class Existence Axioms.md",
+    "Hold/Axiom of Extension.md",
+    "Hold/Axiom of Well-Foundedness.md",
+    "Hold/Axiom Schema of Class Comprehension.md",
+    "Hold/Axiomatic Set Theory.md",
+    "Hold",
+    "Draft/Set Theory - Questions.md",
+    "Draft",
+    "netify.toml",
+    "Notes/netify.toml",
+    "Notes/netify.toml.txt",
+    "Notes/New Text Document.txt",
+    "Notes/Draft",
+    "Notes/Hold",
+    "WIP"
+  ]
+}
