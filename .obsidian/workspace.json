@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cartesian Product.md",
+                "file": "Ordered N-Tuples.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartesian Product.md",
+                "file": "Ordered N-Tuples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartesian Product.md",
+                "file": "Ordered N-Tuples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartesian Product.md"
+                "file": "Ordered N-Tuples.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "dcdac1a8833e2b98",
   "lastOpenFiles": [
+    "Cartesian Product.md",
+    "Ordered N-Tuples.md",
+    "Ordered.md",
     "Class Construction.md",
     "What are Sets.md",
     "Syntax of First-Order Logic.md",
@@ -191,7 +194,6 @@
     "Functions.md",
     "Equality of Mathematical Objects.md",
     "Classes vs Sets.md",
-    "Cartesian Product.md",
     "Map of Contents/Set Theory - Map of Contents.md",
     "Map of Contents/Real Analysis - Map of Contents.md",
     "Map of Contents/Data Structures and Algorithms - Map of Contents.md",
@@ -203,8 +205,6 @@
     "Hold/Logical vs Semantic Paradoxes.md",
     "Hold/NBG Set Theory.md",
     "Hold/Class Existence Axioms.md",
-    "Hold/Axiom of Extension.md",
-    "Hold/Axiom of Well-Foundedness.md",
     "Hold",
     "Draft",
     "netify.toml",
