@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordered N-Tuples.md",
+                "file": "Unions of Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ordered N-Tuples.md",
+                "file": "Unions of Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ordered N-Tuples.md",
+                "file": "Unions of Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ordered N-Tuples.md"
+                "file": "Unions of Sets.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "dcdac1a8833e2b98",
   "lastOpenFiles": [
-    "Cartesian Product.md",
     "Ordered N-Tuples.md",
+    "Cartesian Product.md",
     "Ordered.md",
     "Class Construction.md",
     "What are Sets.md",
@@ -190,7 +190,7 @@
     "Naive Set Theory.md",
     "Mathematical Realism.md",
     "Indexed Family.md",
-    "Generalized Union and Intersection.md",
+    "Unions of Sets.md",
     "Functions.md",
     "Equality of Mathematical Objects.md",
     "Classes vs Sets.md",
