@@ -1,1 +1,1 @@
-If there are two sets then it might be meaningful to ask whether can combine 
+Given two different sets we might want to combine them. The new set would contain all the elements in both these sets. 
