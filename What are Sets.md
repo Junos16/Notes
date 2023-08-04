@@ -8,3 +8,6 @@ Often we might be interested in knowing whether a collection is a member of anot
 
 ***Example:*** We might be interested in finding intervals that satisfy the inequality: $x^2 - 4x + 3 > 0$. The solution to this would be a collection of 2 intervals $(-\infty, 1)$ and $(3, \infty)$. These intervals themselves are collections of real numbers.
 
+### Set Theory
+
+Most mathematical objects could be very conveniently described as sets. From obvious examples like number systems sets of solutions to equations to more unintuitive examples like sequences (due to order of elements mattering on top of just membership, see Ordered N-tuples) and 
