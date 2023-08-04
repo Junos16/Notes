@@ -1,1 +1,1 @@
-If we want a combination of two sets
+If there are two sets then it might be meaningful to ask whether can combine 
