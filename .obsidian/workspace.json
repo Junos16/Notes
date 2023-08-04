@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unions of Sets.md",
+                "file": "Hold/Axiom Schema of Class Comprehension.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unions of Sets.md",
+                "file": "Hold/Axiom Schema of Class Comprehension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unions of Sets.md",
+                "file": "Hold/Axiom Schema of Class Comprehension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unions of Sets.md"
+                "file": "Hold/Axiom Schema of Class Comprehension.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "dcdac1a8833e2b98",
   "lastOpenFiles": [
+    "Pairing.md",
+    "Unions of Sets.md",
     "Ordered N-Tuples.md",
     "Cartesian Product.md",
     "Ordered.md",
@@ -190,7 +192,6 @@
     "Naive Set Theory.md",
     "Mathematical Realism.md",
     "Indexed Family.md",
-    "Unions of Sets.md",
     "Functions.md",
     "Equality of Mathematical Objects.md",
     "Classes vs Sets.md",
@@ -204,7 +205,6 @@
     "Hold/Quantifiers.md",
     "Hold/Logical vs Semantic Paradoxes.md",
     "Hold/NBG Set Theory.md",
-    "Hold/Class Existence Axioms.md",
     "Hold",
     "Draft",
     "netify.toml",

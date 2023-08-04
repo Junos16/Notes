@@ -1,1 +1,1 @@
-Given two different sets we might want to combine them. The new set would contain all the elements in both these sets. 
+Given two sets, the axiom of pairing grants us a set larger than them containing both of them. But if we want to  
