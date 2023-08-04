@@ -10,4 +10,4 @@ Often we might be interested in knowing whether a collection is a member of anot
 
 ### Set Theory
 
-Most mathematical objects could be very conveniently described as sets. From obvious examples like number systems sets of solutions to equations to more unintuitive examples like sequences (due to order of elements mattering on top of just membership, see Ordered N-tuples) and 
+Most mathematical objects could be very conveniently described as sets. From obvious examples like number systems sets of solutions to equations to more unintuitive examples like sequences (due to order of elements mattering on top of just membership, see Ordered N-tuples), functions and relations. 
