@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Russel's Paradox.md",
+                "file": "What are Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Russel's Paradox.md",
+                "file": "What are Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Russel's Paradox.md",
+                "file": "What are Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Russel's Paradox.md"
+                "file": "What are Sets.md"
               }
             }
           },
@@ -178,10 +178,11 @@
   },
   "active": "dcdac1a8833e2b98",
   "lastOpenFiles": [
+    "Unions of Sets.md",
+    "Russel's Paradox.md",
     "Set Construction.md",
     "Hold/Axiom Schema of Class Comprehension.md",
     "Pairing.md",
-    "Unions of Sets.md",
     "Ordered N-Tuples.md",
     "Cartesian Product.md",
     "Ordered.md",
@@ -204,7 +205,6 @@
     "Map of Contents/Computer Architecture - Map of Contents.md",
     "Map of Contents",
     "Hold/Propostions.md",
-    "Hold/Quantifiers.md",
     "Hold",
     "Draft",
     "netify.toml",

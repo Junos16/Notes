@@ -2,7 +2,7 @@
 
 When discussing any theory related to sets, it is important to know how sets can be created. In Naive Set Theory it was assumed that given any well-defined condition we could define a set containing all the elements that fulfill that condition. 
 
-***Unrestricted Comprehension:*** $\exists A \forall x (x \in A \iif )$
+***Unrestricted Comprehension:*** $\exists A \forall x (x \in A \iff \phi(x))$
 
 ### Paradox
 - ***Russel's Paradox:*** $Let\space \Omega = \{x \mid x\notin x\} \implies (\Omega \in \Omega \iff \Omega \notin \Omega)$  
