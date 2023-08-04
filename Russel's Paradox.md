@@ -1,5 +1,7 @@
 #SetTheory #Logic #FoundationsofMathematics #NBGSetTheory #ZFCSetTheory 
 
+When discussing any theory related to sets, it is important to know how sets can be created. In Naive Set Theory it was assumed that given any well-defined condition we could define a set containing all the elements that 
+
 ### Paradox
 - ***Russel's Paradox:*** $Let\space \Omega = \{x \mid x\notin x\} \implies (\Omega \in \Omega \iff \Omega \notin \Omega)$  
 - If $\Omega$ is defined as a set that contains all sets that aren't members of themselves then we can draw the following conclusions:

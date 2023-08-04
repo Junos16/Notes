@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set Construction.md",
+                "file": "Russel's Paradox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set Construction.md",
+                "file": "Russel's Paradox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set Construction.md",
+                "file": "Russel's Paradox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set Construction.md"
+                "file": "Russel's Paradox.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "dcdac1a8833e2b98",
   "lastOpenFiles": [
+    "Set Construction.md",
     "Hold/Axiom Schema of Class Comprehension.md",
     "Pairing.md",
     "Unions of Sets.md",
@@ -204,7 +205,6 @@
     "Map of Contents",
     "Hold/Propostions.md",
     "Hold/Quantifiers.md",
-    "Hold/Logical vs Semantic Paradoxes.md",
     "Hold",
     "Draft",
     "netify.toml",
