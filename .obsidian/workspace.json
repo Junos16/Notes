@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What are Sets.md",
+                "file": "Probability and Statistics Running Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What are Sets.md",
+                "file": "Probability and Statistics Running Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What are Sets.md",
+                "file": "Probability and Statistics Running Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What are Sets.md"
+                "file": "Probability and Statistics Running Notes.md"
               }
             }
           },
@@ -176,10 +176,13 @@
       "obsidian-flexible-pomo:Start Pomodoro": false
     }
   },
-  "active": "dcdac1a8833e2b98",
+  "active": "dfef3e9911e65438",
   "lastOpenFiles": [
-    "Draft/Cartesian Product.md",
+    "Set Theory Running Notes.md",
+    "Specification.md",
+    "Tools being used.md",
     "What are Sets.md",
+    "Draft/Cartesian Product.md",
     "Draft/Naive Set Theory.md",
     "Draft/Unions of Sets.md",
     "Draft/Russel's Paradox.md",
@@ -201,10 +204,7 @@
     "Map of Contents/Set Theory - Map of Contents.md",
     "Map of Contents/Real Analysis - Map of Contents.md",
     "Map of Contents/Data Structures and Algorithms - Map of Contents.md",
-    "Map of Contents/Logic - Map of Contents.md",
-    "Map of Contents/Computer Architecture - Map of Contents.md",
     "Map of Contents",
-    "Hold/Propostions.md",
     "Hold",
     "Draft",
     "netify.toml",
