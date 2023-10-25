@@ -1,0 +1,33 @@
+- Basics
+	- Synchronous vs Asynchronous Counters
+	- Modulus of Counter
+- Aynchronous/Ripple Counter
+	- Output of one FF used as clock for next
+	- Async Up Counter
+		- CLKn+1 = Qn
+	- Async Down Counter
+		- CLKn+1 = !Qn
+	- Async Up/Down
+		- Use Mode line 
+		- Chose whether to use Q or !Q as clk
+	- Decode Counter
+		- Comb circuit connected to parrallel outputs
+		- Detect specifc counts of the counter
+	- Glitch Problem
+		- Prop delay leading to unwanted gaps in waveforms
+		- decoder detects odd signals
+		- And clock with decode logic to eliminate issue
+	- Reset Logic
+		- Find end point of sequence
+		- Output of reset logic connected to clear
+- Synchronous Counter
+	- Output of one FF used as input for next ff
+	- Sync Up Counter
+	- Sync Down Counter
+	- Design
+- Lock Out
+	- With Bushing
+	- Without Bushing
+- Decade Binary Counter
+- Ring Counter
+- Johnson/Twisting Ring Switch Tail

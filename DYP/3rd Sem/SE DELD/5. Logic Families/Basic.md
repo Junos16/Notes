@@ -1,0 +1,23 @@
+- Types of Logic Families
+	- Bipolar
+		- Main elements - diodes and transistors
+		- Divided based on BJT operatting mode
+		- Saturated
+			- BJT driven to saturation mode
+			- Register TL (RTL)
+			- Diode TL (DTL)
+			- Direct Coupled TL (DCTL)
+			- Integrated Injection TL (I2TL)
+			- High Threshold TL (HTL)
+			- Transistor TL (TTL)
+		- Unsaturated
+			- BJT in unsaturation mode
+			- Schottky TTL
+			- Emitter Coupled Logic (ECL)
+	- Unipolar
+		- Only MOSFETS (unipolar) are employed
+		- p-channel MOS (PMOS)
+		- n-channel MOS (NMOS)
+		- complementary MOS (CMOS)
+- Characteristics of Digital ICs
+- Comparison between TTL and CMOS

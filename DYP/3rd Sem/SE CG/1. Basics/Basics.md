@@ -1,0 +1,60 @@
+### Primitives
+- Pixel
+	- Point on screen
+	- Not mathematical
+	- smallest addressable element
+	- Defined by:
+		- Position
+		- Color
+		- Intensity
+- Rasterization
+	- Process of  
+		- determining appropriate pixels for representing picture
+		- representing continuous picture as collection of pixels
+- Scan Conversion
+		- 
+- Frame Buffer
+	- Refresh Buffer
+	- Memory area
+	- holds intensity values for all points
+- Persistence
+- Resolution
+	- No. of pixels on screen
+	- Max number of points w/o overlap
+	- Sharpness
+- Aspect Ratio
+	- hor/ver dimensions
+
+### Display Devices
+- Scan Systems
+	- Raster
+		- Scan entire screen
+		- Low res
+		- Cheap
+		- Picture def - 
+			- Discrete intensity
+			- Values stored in frame buffer
+			- Relatively realistic
+		- Pixel used to draw
+	- Random
+		- Scans only specific parts
+		- High res
+		- Costly
+		- Picture def -
+			- Line primitive
+			- Line drawing commands in display list
+			- Not realistic
+- CRT
+	- Color CRT
+		- Beam Penetration
+		- Shadow Mask Technique
+- DVST
+- Flat Panel
+- Plasma Panel
+- LCD
+- 3D viewing
+	- Stereoscopic/VR
+
+  ### Applications
+  - Devices
+  - CG

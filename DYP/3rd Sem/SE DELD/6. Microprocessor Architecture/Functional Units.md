@@ -1,0 +1,3 @@
+- BLock Diagram
+- ALU
+- Memory
