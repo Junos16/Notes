@@ -1,2 +1,11 @@
 - What is a computer network
-- What are the differnt 
+- What are the different types of networks
+- What are network topologies?
+- What are the mediums of transmitting resources
+- What is OSI
+- What is TCP/IP
+- What is error control?
+- What is flow control?
+- What is CRC?
+- What is hamming code?
+- What is IP address
