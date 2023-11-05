@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics Running Notes.md",
+                "file": "Tools being used.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eff2ddcfaedc33a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networking Running Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics Running Notes.md",
+                "file": "Computer Networking Running Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics Running Notes.md",
+                "file": "Computer Networking Running Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics Running Notes.md"
+                "file": "Computer Networking Running Notes.md"
               }
             }
           },
@@ -176,12 +189,14 @@
       "obsidian-flexible-pomo:Start Pomodoro": false
     }
   },
-  "active": "dfef3e9911e65438",
+  "active": "eff2ddcfaedc33a3",
   "lastOpenFiles": [
-    "Set Theory Running Notes.md",
-    "Specification.md",
     "Tools being used.md",
+    "Computer Networking Running Notes.md",
     "What are Sets.md",
+    "Specification.md",
+    "Set Theory Running Notes.md",
+    "Probability and Statistics Running Notes.md",
     "Draft/Cartesian Product.md",
     "Draft/Naive Set Theory.md",
     "Draft/Unions of Sets.md",
@@ -202,8 +217,6 @@
     "Draft/Equality of Mathematical Objects.md",
     "Draft/Classes vs Sets.md",
     "Map of Contents/Set Theory - Map of Contents.md",
-    "Map of Contents/Real Analysis - Map of Contents.md",
-    "Map of Contents/Data Structures and Algorithms - Map of Contents.md",
     "Map of Contents",
     "Hold",
     "Draft",
