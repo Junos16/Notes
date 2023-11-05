@@ -9,3 +9,14 @@
 - What is CRC?
 - What is hamming code?
 - What is IP address
+- What is MAC Address?
+- What is ethernet?
+- What are common IP Protocols?
+- What is subnet mask
+- What are the common devices used in networking? Router, switch, etc.
+- What are port numbers?
+- What is a firewall?
+- What is DHCP?
+- What is DnS?
+- What is switching?
+- What is network routing 
