@@ -20,3 +20,5 @@
 - What is DnS?
 - What is switching?
 - What is network routing 
+- What are emails
+- What is network security?
