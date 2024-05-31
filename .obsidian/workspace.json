@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcdac1a8833e2b98",
+            "id": "694ab41fc957aa54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools being used.md",
+                "file": "Probability and Statistics Running Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eff2ddcfaedc33a3",
+            "id": "cdb2ce8a291743be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking Running Notes.md",
+                "file": "Linear Algebra running notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ebfc5e4790b4974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT Ropar/Oceanverse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking Running Notes.md",
+                "file": "IIT Ropar/Oceanverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking Running Notes.md",
+                "file": "IIT Ropar/Oceanverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networking Running Notes.md"
+                "file": "IIT Ropar/Oceanverse.md"
               }
             }
           },
@@ -151,27 +163,28 @@
             }
           },
           {
-            "id": "e8997c44741d687e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "db7e6ef8d146640a",
             "type": "leaf",
             "state": {
               "type": "workbench-items",
               "state": {}
             }
+          },
+          {
+            "id": "51f1dee7d4fb2024",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,52 +193,60 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "ledger-obsidian:Add to Ledger": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "daily-notes:Open today's daily note": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-flexible-pomo:Start Pomodoro": false
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "eff2ddcfaedc33a3",
+  "active": "dfef3e9911e65438",
   "lastOpenFiles": [
+    "IIT Ropar/Pasted image 20240531130114.png",
+    "IIT Ropar/Pasted image 20240531125730.png",
+    "IIT Ropar/Pasted image 20240531125601.png",
+    "IIT Ropar/Pasted image 20240531121200.png",
+    "IIT Ropar/Pasted image 20240531120730.png",
+    "Hold/Overview for AI Camp.md",
+    "IIT Ropar/Pasted image 20240529232235.png",
+    "IIT Ropar/Pasted image 20240529232124.png",
+    "IIT Ropar/Oceanverse.md",
+    "Linear Algebra running notes.md",
+    "IIT Ropar/Pasted image 20240531101327.png",
+    "IIT Ropar/Pasted image 20240529234530.png",
+    "IIT Ropar/Pasted image 20240529232439.png",
+    "IIT Ropar/Pasted image 20240529224913.png",
+    "Probability and Statistics Running Notes.md",
+    "IIT Ropar",
+    "Set Theory Running Notes.md",
+    "Algortithms/Memory Complexity.md",
+    "Tenosynovitis.md",
     "Tools being used.md",
-    "Computer Networking Running Notes.md",
+    "Algortithms/Time Complexity.md",
+    "Algortithms/Data Structures.md",
+    "Algortithms/Algorithms.md",
+    "Algortithms/Algorithm Design Techniques.md",
+    "Algortithms/Algorithm Correctness.md",
+    "Algortithms/Algorithm Analysis Model.md",
+    "Thoughts on Notetaking.md",
     "What are Sets.md",
     "Specification.md",
-    "Set Theory Running Notes.md",
-    "Probability and Statistics Running Notes.md",
-    "Draft/Cartesian Product.md",
-    "Draft/Naive Set Theory.md",
-    "Draft/Unions of Sets.md",
-    "Draft/Russel's Paradox.md",
-    "Draft/Set Construction.md",
-    "Hold/Axiom Schema of Class Comprehension.md",
-    "Draft/Pairing.md",
-    "Draft/Ordered N-Tuples.md",
-    "Ordered.md",
-    "Draft/Class Construction.md",
-    "Draft/Syntax of First-Order Logic.md",
-    "Draft/Relations.md",
-    "Notes/Cartesian Product.md",
-    "Notes/Set Construction.md",
-    "Draft/Mathematical Realism.md",
-    "Draft/Indexed Family.md",
-    "Draft/Functions.md",
-    "Draft/Equality of Mathematical Objects.md",
-    "Draft/Classes vs Sets.md",
-    "Map of Contents/Set Theory - Map of Contents.md",
+    "AI.md",
+    "AI Exam.md",
+    "Marathi/Bare Minimum.md",
+    "Marathi/Map.md",
+    "Marathi/Numbers.md",
+    "Marathi/Functional.md",
+    "Marathi/Pronouns.md",
+    "DSBDA 4.md",
+    "DSBDA.pdf",
+    "Marathi",
     "Map of Contents",
     "Hold",
     "Draft",
     "netify.toml",
     "Notes/netify.toml",
     "Notes/netify.toml.txt",
-    "Notes/New Text Document.txt",
-    "Notes/Draft",
-    "Notes/Hold",
-    "WIP"
+    "Notes/New Text Document.txt"
   ]
 }
