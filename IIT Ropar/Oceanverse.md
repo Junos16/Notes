@@ -132,7 +132,7 @@ Thus any vector $\left(\begin{matrix}x \\ y\end{matrix}\right)$ such that $x = -
 >![[Pasted image 20240531125730.png]]
 
 30. Use Geogebra and plot all the points in the set below. $$W={\alpha(1,2,1)+\beta(2,7,3)|\alpha,\beta\in \mathbb{R}}$$
->![[Pasted image 20240531130114.png]]
+![[Pasted image 20240531130114.png]]
 
 
 # Module D
