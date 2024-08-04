@@ -1,1 +1,0 @@
-Given two sets, the axiom of pairing grants us a set larger than them containing both of them. But if we want to  

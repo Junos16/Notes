@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "694ab41fc957aa54",
+            "id": "59b0f5c59e6994c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics Running Notes.md",
+                "file": "0 Tardation Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cdb2ce8a291743be",
+            "id": "ff3bb4e68a85dd62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra running notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ebfc5e4790b4974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IIT Ropar/Oceanverse.md",
+                "file": "0 Tardation Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IIT Ropar/Oceanverse.md",
+                "file": "0 Tardation Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IIT Ropar/Oceanverse.md",
+                "file": "0 Tardation Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IIT Ropar/Oceanverse.md"
+                "file": "0 Tardation Management.md"
               }
             }
           },
@@ -179,12 +167,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,51 +189,52 @@
   },
   "active": "dfef3e9911e65438",
   "lastOpenFiles": [
-    "IIT Ropar/Pasted image 20240531130114.png",
-    "IIT Ropar/Pasted image 20240531125730.png",
-    "IIT Ropar/Pasted image 20240531125601.png",
-    "IIT Ropar/Pasted image 20240531121200.png",
-    "IIT Ropar/Pasted image 20240531120730.png",
+    "Algorithms Running Notes.md",
+    "0 Tardation Management.md",
+    "Draft/Axiomatic System.md",
+    "Draft/Cartesian Product.md",
+    "Draft/Class Construction.md",
+    "Draft/Classes vs Sets.md",
+    "Draft/Equality of Mathematical Objects.md",
+    "Draft/Functions.md",
+    "Draft/Indexed Family.md",
+    "Draft/Mathematical Realism.md",
+    "Draft/Set Construction.md",
+    "Draft/Russel's Paradox.md",
+    "Draft/Partially Ordered Sets.md",
+    "Draft/Naive Set Theory.md",
+    "Draft/Pairing.md",
+    "Draft/Relations.md",
+    "Draft/Set Theory - Questions.md",
+    "Draft/Syntax of First-Order Logic.md",
+    "Computer Architecture/Digital Logic.md",
+    "Draft/Unions of Sets.md",
+    "Hold/Quantifiers.md",
+    "Hold/Propostions.md",
     "Hold/Overview for AI Camp.md",
-    "IIT Ropar/Pasted image 20240529232235.png",
-    "IIT Ropar/Pasted image 20240529232124.png",
-    "IIT Ropar/Oceanverse.md",
-    "Linear Algebra running notes.md",
-    "IIT Ropar/Pasted image 20240531101327.png",
-    "IIT Ropar/Pasted image 20240529234530.png",
-    "IIT Ropar/Pasted image 20240529232439.png",
-    "IIT Ropar/Pasted image 20240529224913.png",
-    "Probability and Statistics Running Notes.md",
-    "IIT Ropar",
-    "Set Theory Running Notes.md",
-    "Algortithms/Memory Complexity.md",
-    "Tenosynovitis.md",
-    "Tools being used.md",
-    "Algortithms/Time Complexity.md",
-    "Algortithms/Data Structures.md",
-    "Algortithms/Algorithms.md",
-    "Algortithms/Algorithm Design Techniques.md",
-    "Algortithms/Algorithm Correctness.md",
-    "Algortithms/Algorithm Analysis Model.md",
-    "Thoughts on Notetaking.md",
-    "What are Sets.md",
-    "Specification.md",
-    "AI.md",
-    "AI Exam.md",
-    "Marathi/Bare Minimum.md",
-    "Marathi/Map.md",
-    "Marathi/Numbers.md",
-    "Marathi/Functional.md",
-    "Marathi/Pronouns.md",
-    "DSBDA 4.md",
-    "DSBDA.pdf",
-    "Marathi",
-    "Map of Contents",
-    "Hold",
-    "Draft",
-    "netify.toml",
-    "Notes/netify.toml",
-    "Notes/netify.toml.txt",
-    "Notes/New Text Document.txt"
+    "Hold/NBG Set Theory.md",
+    "Hold/Logical vs Semantic Paradoxes.md",
+    "Hold/Communication Approach.md",
+    "Untitled",
+    "Boolean Algebra",
+    "Computer Architecture",
+    "Operating System",
+    "Untitled.canvas",
+    "WhatsApp Image 2024-07-13 at 02.22.13_4b27a62b.jpg",
+    "Algortithms/bin",
+    "Retardation",
+    "Final Year Plan",
+    "Socialization",
+    "AIVS/Pasted image 20240708155409.png",
+    "Alzheimer Detection",
+    "Research Project Ideas.docx",
+    "AIVS/Pasted image 20240611154524.png",
+    "AIVS/Pasted image 20240611152924.png",
+    "AIVS/Pasted image 20240611152836.png",
+    "AIVS/Pasted image 20240611124351.png",
+    "AIVS/Pasted image 20240610154335.png",
+    "AIVS/Pasted image 20240610153719.png",
+    "AIVS/Pasted image 20240610153455.png",
+    "AIVS/Pasted image 20240605220036.png"
   ]
 }

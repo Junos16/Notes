@@ -12,7 +12,6 @@
 	- trivial
 	- degenerate
 	- space
-
 ### Foundations
 - Explain all ways of defining classes in NBG
 - Explain all ways of defining sets in ZFC

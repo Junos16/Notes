@@ -1,8 +1,0 @@
-- Sorting Algorithms
-- Mutating Sequence Algorithms
-- NonMutating Sequence Algorithms
-- Numerical Algorithms
-- Searching Algortihms
-- Min Max Algorithms
-- Set Operations
-- Heap Sort

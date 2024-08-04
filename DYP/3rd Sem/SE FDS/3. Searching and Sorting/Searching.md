@@ -1,8 +1,0 @@
-- Sequential Search
-	- Sentinel Search 
-- Binary Search
-	- Recursive
-	- Non-Recurvise
-	- Ternary Search
-- Fibonacci Search
-- 

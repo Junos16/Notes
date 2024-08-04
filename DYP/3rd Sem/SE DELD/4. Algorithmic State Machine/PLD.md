@@ -1,4 +1,0 @@
-- PLD
-	- PROM
-	- PLA
-	- PAL

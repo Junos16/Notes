@@ -1,0 +1,72 @@
+# Final:
+
+- **[Physics Informed Neural Networks:](https://maziarraissi.github.io/PINNs/)** Embedding prior information of general physical laws in the training of Neural Networks to enhance information content of available data facilitating the learning algorithm to capture the right solution and to generalize well even with a low amount of training examples.
+	- https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563
+	- Not very obvious where it excels the most compared to standard NN and standard PDE solver based method:
+		- Seems to be better in low data and high dimensional environements
+		- Amazing for inverse problems
+	- Application:
+		- [ClimODE:](https://arxiv.org/pdf/2404.10024) Climate and weather forecasting
+		- https://towardsdatascience.com/physics-informed-neural-networks-an-application-centric-guide-dc1013526b02&sca_esv=09054e7a388018cf&sca_upv=1&strip=1&vwsrc=0
+		- [Physics-informed neural networks for data-free surrogate modeling and engineering optimization — An example from composite manufacturing:](https://publikationen.bibliothek.kit.edu/1000159290)developed parametric PINNs to simulate the thermochemical curing process of composite materials. Heat transfer equations and curing kinetics equations were used as the differential equations to describe the physical process.
+		- [RAMP-Net: A Robust Adaptive MPC for Quadrotors via Physics-informed Neural Network](https://arxiv.org/abs/2209.09025)] developed a PINN-based MPC strategy for high-speed drone navigation.
+		- [Physics-Informed Neural Networks with Hard Constraints for Inverse Design](https://arxiv.org/abs/2102.04626)] investigated using PINNs to perform topology optimization for a holography problem in optics
+		- [Estimating the Time-dependent Contact Rate of SIR and SEIR Models in Mathematical Epidemiology Using Physics-Informed Neural Networks](https://research.tudelft.nl/en/publications/estimating-the-time-dependent-contact-rate-of-sir-and-seir-models)] leveraged PINNs for parameter estimation within the context of epidemiology. Specifically, the authors estimated the contact rate (which is a key parameter in the virus-spreading ODE) from the observed COVID-19 pandemic data
+		- [Discovering a reaction-diffusion model for Alzheimer’s disease by combining PINNs with symbolic regression](https://arxiv.org/abs/2307.08107)] looked into modeling the spatiotemporal concentration of misfolded tau protein, which plays a crucial role in the progression and pathology of Alzheimer’s disease.
+		- [[Physics-Informed Neural Network Super Resolution for Advection-Diffusion Models](https://arxiv.org/abs/2011.02519)] investigated the problem of reconstructing high-resolution images from lower-resolution satellite imagery of atmospheric pollution plumes.
+		-  [[Reconstruction of 3D flow field around a building model in wind tunnel](https://www.tandfonline.com/doi/full/10.1080/19942060.2023.2238849?scroll=top&needAccess=true)] applied PINNs to solving building wind engineering problems and investigated reconstructing the flow field around the scale model of a building in a wind tunnel.
+	- https://maziarraissi.github.io/PINNs/
+	- https://tm157.github.io/
+	- https://www.reddit.com/r/MachineLearning/comments/12lzzv6/d_what_is_the_point_of_physicsinformed_neural/
+- **[Relative Position Encoding:](https://jaketae.github.io/study/relative-positional-encoding/)** Using relative position encoding for tokens in a transformer as opposed to an absolute encoding to increase the limit on the number of tokens that the model can process.
+	- 2018 paper first explaining this approach: https://arxiv.org/pdf/1803.02155.pdf
+	- https://lithiumda.github.io/
+	- General reading on Transformers: https://www.reddit.com/r/MachineLearning/comments/1bhog2n/d_theoretical_paper_about_transformers/
+- **3D Gaussian Splatting:** Volume rendering without converting volume data into surface and line primitives
+	- 
+- **Diffusion Models for Robotics Control:** Generating robot behavior using diffusion policy as opposed to RNNs or Transformers for better performance
+	- Generating robot behavior using Diffusion Policy https://diffusion-policy.cs.columbia.edu/
+	- Skill transfer from human demonstration to deployable policies https://umi-gripper.github.io/
+	- https://arxiv.org/abs/2308.01557v2
+- **[Video Instance Segmentation:](https://arxiv.org/abs/1905.04804)** Simultaneous detection, segmentation and tracking of instances in video
+	- https://scholar.google.com/citations?user=rW5dpvMAAAAJ&hl=en
+	- Open World VIS: https://arxiv.org/abs/2404.03657
+- **GNN (Novel Architectures and Applications):** https://rendazhang.medium.com/graph-neural-network-series-5-the-future-of-graph-intelligence-challenges-and-developments-in-9ab18cd83af6
+	- **[Cooperative Graph Neural Networks:](https://arxiv.org/abs/2310.01267)** Provide more flexible message passing paradigm compared to traditional GNNs where each node chooses action based on the state it is in.
+	- Applications: 
+		- Intelligent Transportation Systems: https://arxiv.org/html/2401.00713v2
+		- Traffic Prediction: [GNNs can be applied to transportation maps](https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks?ref=assemblyai.com)
+		- Protein Design: [RosettaFoldDiffusion](https://www.bakerlab.org/2022/11/30/diffusion-model-for-protein-design/?ref=assemblyai.com)
+		- Drug Discovery: [Antibiotic Discovery](https://www.sciencedirect.com/science/article/pii/S0092867420301021?ref=assemblyai.com)
+		- Weather Forecasting: [GraphCast](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/?ref=assemblyai.com)
+		- Ligand affinity prediction: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10793902/
+		- https://www.assemblyai.com/blog/ai-trends-graph-neural-networks/
+		- https://www.reddit.com/r/MachineLearning/comments/10v0nkm/r_research_trends_in_graph_neural_networks_gnn/
+		- https://www.reddit.com/r/MachineLearning/comments/1bj6z80/discussion_gnn_applications/
+		- **[EEG Signal Classification:](https://arxiv.org/pdf/2106.09135)** Projects electrodes to vertices of graph as opposed to pixels of image in CNN which are assumed to be equidistant to their neighbors.
+- **[Latent Consistency Models:](https://latent-consistency-models.github.io/)** Used to overcome the slow iterative sampling process of diffusion models 
+	- https://arxiv.org/abs/2310.04378
+	- Video LCM: https://arxiv.org/abs/2312.09109
+- **Modern RNN-esque(?)/Non-Transformer deep learning architecture:**
+	- RWKV: https://arxiv.org/abs/2404.05892
+	- xLSTM: https://arxiv.org/abs/2405.04517
+	- **[State Space Models:](https://arxiv.org/abs/2404.09516)** Using state variables for sequence modelling in machine learning
+		- H3: https://arxiv.org/abs/2212.14052
+		- Structured SSM (S4): https://arxiv.org/abs/2111.00396
+		- Mamba architecture: https://arxiv.org/abs/2312.00752
+			- https://github.com/yyyujintang/Awesome-Mamba-Papers
+			- https://arxiv.org/abs/2404.18861
+			- Convolution and Attention-Free Mamba-based Cardiac Image Segmentation [Paper](https://arxiv.org/abs/2406.05786)
+			- Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [Paper](https://arxiv.org/abs/2404.07645)
+			- **Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling** [Paper](https://arxiv.org/abs/2403.03234)
+	- **[Retentive Networks:](https://arxiv.org/abs/2307.08621)**
+		- [RetNet viewed through Convolution](https://arxiv.org/abs/2309.05375)
+		- [RMT: Retentive Networks Meet Vision Transformers](https://arxiv.org/abs/2309.11523)
+		- [GateLoop: Fully Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927)
+		- [Cross-Axis Transformer with 2D Rotary Embeddings](https://arxiv.org/abs/2311.07184)
+- Causal Reasoning:
+	- 
+	- People: 
+		- https://torylin.github.io/
+		- https://bryanwilder.github.io/
+		- 
