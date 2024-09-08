@@ -1,0 +1,14 @@
+
+- Timers and breaks
+	- Take breaks dynamically
+	- Set timers for small times on forest
+		- If the timers are small you are focused to check state
+- Focus
+	- Use grounding exercise frequently
+	- Context switching frequently
+	- Breadth first depth next
+		- Atleast finish 50% of the job
+	- Don't be slow (stop if that is the case)
+	- Distraction is fine, just work hard
+		- Try to get distracted by things in the task list
+		- 

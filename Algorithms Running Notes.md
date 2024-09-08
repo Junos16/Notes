@@ -1,0 +1,2 @@
+- ALgorithms in opposition to heuristics
+- 

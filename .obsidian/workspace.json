@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "d974ddf83d2d7b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "24051fb58150fc60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4b5fe01840084e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Computation/Being ultra autistic about TOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afba86e78fee186f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Computation/Theory of Computation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ceeca6ff4f0ed1c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Computation/Turing Machine Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd7a7d006525808c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Computation/Important Results/Equivalence of TM Variants.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26c5570967fe3de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algortithms/Hash Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fad32298499a4513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algortithms/Important Results/Collision Resolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d25b32e9132104b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algortithms/Important Results/Universal Hashing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed9946eda0d05a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Computation/Being ultra autistic about TOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8069ae9edfb29388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algortithms/Important Results/QuickSort (Randomized).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6505af0456b0deb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff4f3a1cbf28b2d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfef3e9911e65438",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76db3aa79b7c6c88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c759139e881e9b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b8cae721b76d02af",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a208164ba494ba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "976ef8df19956777",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theory of Computation/Being ultra autistic about TOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34df0e60f8d85620",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Theory of Computation/Being ultra autistic about TOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65850841f2aeb530",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a73ea1f095eca2a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Theory of Computation/Being ultra autistic about TOC.md"
+              }
+            }
+          },
+          {
+            "id": "9491aede15f39bf9",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "db7e6ef8d146640a",
+            "type": "leaf",
+            "state": {
+              "type": "workbench-items",
+              "state": {}
+            }
+          },
+          {
+            "id": "51f1dee7d4fb2024",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6d691bed14448e1",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "copilot:Copilot Chat": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "daily-notes:Open today's daily note": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "a6d691bed14448e1",
+  "lastOpenFiles": [
+    "Algortithms/Important Results/QuickSort (Deterministic).md",
+    "Algortithms/Important Results/Selection.md",
+    "Algortithms/Important Results/QuickSort (Randomized).md",
+    "Algortithms/Important Results/Breadth-First Search.md",
+    "Algortithms/Important Results/Depth-First Search.md",
+    "Algortithms/Hash Table.md",
+    "Theory of Computation/Important Results/Equivalence of TM Variants.md",
+    "Algortithms/Arrays as a Primitive.md",
+    "Algortithms/Important Results/Universal Hashing.md",
+    "Algortithms/Important Results/Collision Resolution.md",
+    "Theory of Computation/Turing Machine Programming.md",
+    "Theory of Computation/Theory of Computation.md",
+    "Theory of Computation/Important Results/Languages Recognized by Turing Machines.md",
+    "Theory of Computation/Important Results/Decidability Proofs.md",
+    "Theory of Computation/Important Results/Computable Functions and Algorithms.md",
+    "Theory of Computation/Being ultra autistic about TOC.md",
+    "Algortithms/Important Results/Master Theorem Proof.md",
+    "Algortithms/Important Results/MST.md",
+    "Algortithms/Important Results/Topological Sort.md",
+    "Theory of Computation/Languages are Problems.md",
+    "Theory of Computation/Chomsky Heirarchy.md",
+    "Algortithms/Important Results/Heaps.md",
+    "Algortithms/Important Results/Heap Sort.md",
+    "Theory of Computation/Turing Equivalent Models of Computation.md",
+    "Theory of Computation/Important Results/Undecidability Proofs.md",
+    "Theory of Computation/Important Results/Closure Properties of Languages.md",
+    "Theory of Computation/Important Results",
+    "Theory of Computation/Complexity Theory",
+    "Theory of Computation/Computability Theory",
+    "Algortithms/Important Results",
+    "Artificial Intelligence",
+    "Theory of Computation",
+    "Computer Networks",
+    "Digital Electronics",
+    "Marathi",
+    "Databases",
+    "AIVS/Pasted image 20240529224836.png",
+    "AIVS/Pasted image 20240529115856.png",
+    "AIVS/Pasted image 20240529115642.png",
+    "AIVS/Pasted image 20240529115059.png",
+    "AIVS/Pasted image 20240529115006.png",
+    "AIVS/Pasted image 20240529112022.png",
+    "AIVS/Pasted image 20240529224913.png",
+    "Untitled.canvas",
+    "WhatsApp Image 2024-07-13 at 02.22.13_4b27a62b.jpg",
+    "AIVS/Pasted image 20240708155409.png",
+    "AIVS/Pasted image 20240611154524.png"
+  ]
+}
