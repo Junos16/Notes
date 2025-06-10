@@ -3,14 +3,15 @@
 ### Outline of my readings
 
 Properties of Real Numbers:
-    - Field Axioms
-    - Ordered Set
-    - Ordered Field
-    - Completeness Property
-        - Unique to Reals and not the Rationals
-    - Archimedean Property, Q dense in R
-        - Unique
-    - Uniqueness of the set of real numbers
+
+- Field Axioms
+- Ordered Set
+- Ordered Field
+- Completeness Property
+  - Unique to Reals and not the Rationals
+- Archimedean Property, Q dense in R
+  - Unique
+- Uniqueness of the set of real numbers
 
 ### Notes I'd like to make
 
@@ -34,3 +35,5 @@ Properties of Real Numbers:
   - I need very specific non-trivial examples t
   - Assuming that the answer is that we can do calculus, what makes the concepts of calculus important to us?
 - When generalizing from reals to metric/topological/functional spaces, what properties of reals are being preserved and what are not?
+
+- What is the distinction between lub property, intuitive notion of completeness, dedeking completeness, cauchy completeness + archimedean property
