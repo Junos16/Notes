@@ -29,7 +29,7 @@
         - It is very common and desirable for memory allocated to last longer than the lifetime of the function or thread it was allocated in
 - Conclusion: Separate memory locations per process
     - At least 2 separate locations of memory could be provided to a process at the start of execution
-    - One of them should be very inflexible but provide very efficient memory utilization and high speed  
+    - Stack: One of them should be very inflexible but provide very efficient memory utilization and high speed  
         - Memory is allocated contiguously and sequencially
         - A pointer is maintained to indicate the start of the free memory and memory is generally only allocated from that direction
         - Fast allocation and deallocation (only 1 instruction)
@@ -42,7 +42,7 @@
                 - When the function finishes execution and it's stack is deallocated the return value is written to the pre allocated memory location
                 - A pointer can be maintained to this return value allocation so that when the function finishes execution we know where move the stack pointer to
             - Due to the limitations in the size of the stack recursively calling a function a large number of times (or iteratively doing the same) uncontrolably, unpredictably would lead to exhaustion of the parent process's stack
-    - The other should provide high flexibility at the cost of speed and efficiency
+    - Heap: The other should provide high flexibility at the cost of speed and efficiency
         - Memory doesn't need to allocated sequencially allowing for more flexibility in how a programmer organizes their data in memory or modifies them at runtime
         - A data structure could be allocated part by part in separate areas in memory
             - Resizing of data structures is possible
@@ -54,4 +54,4 @@
             - When memory is allocated to this region it lasts longer than the lifetime of the scope that it was allocated in (function or thread)
             - A pointer is necessary to be able to access the allocated memory
             - Manual deallocation is necessary unlike stack memory which is naturally reclaimed/deallocated after a function/thread/process finishes execution
-    - This region is called heap memory and is associated with a process and is shared by every function and thread called/spawned by the process
+        - This region is called heap memory and is associated with a process and is shared by every function and thread called/spawned by the process
