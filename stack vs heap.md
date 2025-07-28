@@ -1,0 +1,57 @@
+- Premise 1: Memory isolation is beneficial
+    - Apart from very simple scenarios where it's fine to maintain extra bits to identify the process each memory location belongs to, it's better to just provide a process with it's own chunk of memory 
+    - Programmers only need to worry about the memory that the process has been provided as isolation prevents the process from accidentally writing to another process's memory
+- Premise 2: Tradeoffs in terms of speed, efficiency and flexibility in allocation and deallocation are worth considering
+    - Requesting additional memory from the OS is a costly task, it is better to work with the amount of memory provided to the process at the start of the execution
+        - Naturally this would massively restrict the amount of memory that the programmer can have very fast access to
+        - Dynamically allocating memory at an uncontrolled rate would be impossible
+    - Contiguous memory allocation restricts flexibility in terms of how memory is allocated and accessed but provides speed by improving chances of a cache hit
+        - This restricts programmers from dynamically reshaping their variables at runtime
+        - A subarray can never be attached in the middle of an array that has been declared with a fixed size at compile time
+    - Sequential memory allocation makes allocation and deallocation extremely fast as well as prevents external fragmentation
+        - It's extremely fast as the process just has to maintain 1 pointer to know where used memory ends and free memory begins and allocation and deallocation is just 1 instruction (moving the pointer by the size of the memory about to be allocated or deallocated)
+        - It restricts programmers from declaring variables of sizes unspecified at compile time or dynamically resizing variables at runtime
+        - The size of the variables must be known at compile time so that allocation can be performed sequentially and contiguously and deallocation can be performed in 1 instruction
+- Premise 3: Memory management should model control flow patterns, lifetimes and scopes
+    - Just like processes, the idea of memory isolation is extended to function calls and thread spawning
+    - All the same tradeoffs related to speed, efficiency and flexibility also apply to memory local to a function or a thread
+        - If a function's allocated memory were to be allocated and deallocated extremely fast the sizes of the local variables must be known at compile time and it must all be allocated contiguously and sequentially
+        - Just like with a process's associated memory allocation and deallocation would then just be a matter of moving a pointer (1 instruction)
+    - The memory associated with a called function/spawned thread should naturally also reflect the relation between it and the parent function/process
+        - A function/thread that was called/spawned from a parent funtion/process doesn't last as long as the parent
+        - The memory local to the parent function/process thus must persist longer than the called function/spawned thread 
+        - All memory local to a function/thread need not be allocated for longer than the time required for the execution of the function or the thread to complete 
+        - When a function finishes executing it's return value should be allocated among the rest of the local variables of it's parent process/function
+    - This comes at a tradeoff with regards to lifetimes of the values allocated in a thread/function
+        - The memory allocated during a function call or a thread spawn is deallocated after their execution
+        - The allocated memory is private to the thread/function leading to inter-thread isolation/limited scoping but preventing inter-thread communication/global scoping of memory
+        - This prevents inter-thread communication or more complex control flows where multiple functions can access common memory locations
+        - It is very common and desirable for memory allocated to last longer than the lifetime of the function or thread it was allocated in
+- Conclusion: Separate memory locations per process
+    - At least 2 separate locations of memory could be provided to a process at the start of execution
+    - One of them should be very inflexible but provide very efficient memory utilization and high speed  
+        - Memory is allocated contiguously and sequencially
+        - A pointer is maintained to indicate the start of the free memory and memory is generally only allocated from that direction
+        - Fast allocation and deallocation (only 1 instruction)
+        - This location of memory functions very similarly to the stack data structure and thus is commonly called stack memory (or a process/function/thread's stack)
+        - Any function call requires allocating the function's stack
+            - The control flow involved in a function call involves the newly called function executing first and then passing back control to the parent process/function (similar to LIFO)
+            - The function's stack could be allocated right with the parent process's/function's stack
+                - Pushing and popping is just 1 instruction due to knowing the size of the local variables ahead of time
+                - Memory can be allocated in the parent function/process's stack with the same size as the return value of the function called
+                - When the function finishes execution and it's stack is deallocated the return value is written to the pre allocated memory location
+                - A pointer can be maintained to this return value allocation so that when the function finishes execution we know where move the stack pointer to
+            - Due to the limitations in the size of the stack recursively calling a function a large number of times (or iteratively doing the same) uncontrolably, unpredictably would lead to exhaustion of the parent process's stack
+    - The other should provide high flexibility at the cost of speed and efficiency
+        - Memory doesn't need to allocated sequencially allowing for more flexibility in how a programmer organizes their data in memory or modifies them at runtime
+        - A data structure could be allocated part by part in separate areas in memory
+            - Resizing of data structures is possible
+            - It also requires pointers to keep track of non-sequentially allocated parts of the overall structure
+        - Generally flexibility in terms of size of the memory location is also desirable
+            - Unlike the stack this area could be resized dynamically by requesting the OS for more memory
+            - The cost of requesting the OS for memory is worth it for the flexibility that a programmer might be using this region of memory for
+        - It is also desirable to provide flexibility in terms of the lifetimes of allocated memory
+            - When memory is allocated to this region it lasts longer than the lifetime of the scope that it was allocated in (function or thread)
+            - A pointer is necessary to be able to access the allocated memory
+            - Manual deallocation is necessary unlike stack memory which is naturally reclaimed/deallocated after a function/thread/process finishes execution
+    - This region is called heap memory and is associated with a process and is shared by every function and thread called/spawned by the process

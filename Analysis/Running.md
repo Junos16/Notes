@@ -1,3 +1,16 @@
+## Debate Prep
+
+To justify the need for real numbers after having full access to integers/rational numbers
+- To be able to do geometry/trigonometry (all lengths/areas/angles must be defined)
+- To be able to take roots of a polynomial (this runs into complex numbers but no worries)
+- To be able to find rate of change of a function, average value, etc. (differentiation and integration)
+
+To justify that completeness is the only property missing from rational numbers not making them useful enough
+- Rational Numbers have gaps despite being dense
+- Notion of length/measurement implie continuity (can't have gaps)
+- 
+
+
 # 10.6.25
 
 ### Outline of my readings
