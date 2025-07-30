@@ -21,6 +21,6 @@
     - For example if the video sharing service has to censor a very sensitive video it might provide temporary read write access to a video to a moderator so that they can censor just the specific video without allowing them to have unrestricted access to censor other videos on the platform
 
 - Presigned Urls: 
-- Presigned Urls are a way to provide permissions at the object level for objects in an S3 bucket
-- A user with the correct permissions to provide temporary object specific access can create such a url
-- The URL also includes other credentials to identify the object, the time for which people have access to the object and the specific HTTP methods that users would have access to for that object 
+    - Presigned Urls are a way to provide permissions at the object level for objects in an S3 bucket
+    - A user with the correct permissions to provide temporary object specific access can create such a url
+    - The URL also includes other credentials to identify the object, the time for which people have access to the object and the specific HTTP methods that users would have access to for that object 
