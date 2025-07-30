@@ -12,7 +12,7 @@
         - When there are multiple consistent methods of access to a set of data we can set permissions at the user level instead of settings permissions for the whole bucket
         - For example if we have a video sharing service we might want to have two types of user level permissions: read only (for users who aren't original uploaders of the videos) and read and write (for users who have uploaded the videos) instead of setting permissions for the whole bucket containing all the videos
 
-- The above two methods would prove to be very inflexible if we need a slight modification to how we access a small number of objects (or even a single object) in a bucket. We would either have to change the permissions of the entire bucket temporarily or create a new user just for this access
+- The above two methods would prove to be very inflexible if we need a slight modification to how we access a small number of objects (or even a single object) in a bucket. We would either have to change the permissions of the entire bucket temporarily or create a new user just for this access:
 
     - ***Permissions at the object level***: 
 
